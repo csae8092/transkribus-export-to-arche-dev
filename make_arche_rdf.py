@@ -2,6 +2,7 @@ import glob
 import os
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
+from acdh_xml_pyutils.xml import NSMAP
 from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
 
 
@@ -42,6 +43,20 @@ for x in tqdm(files):
     doc = TeiReader(x)
     cur_col_title = doc.tree.xpath(".//title/text()")[0]
     g.add((cur_col_uri, ACDH["hasTitle"], Literal(cur_col_title, lang="und")))
+    for i, image in enumerate(
+        doc.tree.xpath(
+            ".//mets:fileGrp[@ID='IMG']/mets:file/mets:FLocat/@xlink:href",
+            namespaces=NSMAP,
+        ),
+        start=1,
+    ):
+        image_uri = URIRef(f"{cur_col_uri}/{image}")
+        g.add((image_uri, RDF.type, ACDH["Resource"]))
+        g.add((image_uri, ACDH["hasTitle"], Literal(f"{cur_col_title}, Seite: {i}")))
+        g.add((image_uri, ACDH["isPartOf"], cur_col_uri))
+        g.add((
+            image_uri, ACDH["hasCategory"], URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/image")
+        ))
     # page folder
     page_folder_uri = URIRef(f"{cur_col_uri}/page")
     g.add((page_folder_uri, RDF.type, ACDH["Collection"]))
