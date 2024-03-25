@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.9.1:model_id=47114:lm=none:date=04_03_2024_21:42</Creator>
+        <Created>2024-01-20T13:52:41.581343</Created>
+        <LastChange>2024-03-04T21:42:44.483+01:00</LastChange>
+        <TranskribusMetadata docId="1454258" pageId="55926095" pageNr="1" tsid="150429565" status="IN_PROGRESS" userId="39527" imgUrl="https://files.transkribus.eu/Get?id=JHRMUIJNMOHGNJZPUZVGNPOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MAJTTTVHZSCIHNJDYVQCMWXX" imageId="45112270"/>
+    </Metadata>
+    <Page imageFilename="1454258_0001.jpg" imageWidth="1533" imageHeight="2125">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711390387295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1705756098"/>
+                <RegionRefIndexed index="1" regionRef="tr_1705756100"/>
+                <RegionRefIndexed index="2" regionRef="tr_1705756101"/>
+                <RegionRefIndexed index="3" regionRef="tr_1705756096"/>
+                <RegionRefIndexed index="4" regionRef="tr_1705756085"/>
+                <RegionRefIndexed index="5" regionRef="tr_1705756093"/>
+                <RegionRefIndexed index="6" regionRef="tr_1705756097"/>
+                <RegionRefIndexed index="7" regionRef="tr_1705756092"/>
+                <RegionRefIndexed index="8" regionRef="tr_1705756088"/>
+                <RegionRefIndexed index="9" regionRef="tr_1705756086"/>
+                <RegionRefIndexed index="10" regionRef="tr_1705756083"/>
+                <RegionRefIndexed index="11" regionRef="tr_1705756102"/>
+                <RegionRefIndexed index="12" regionRef="tr_1705756095"/>
+                <RegionRefIndexed index="13" regionRef="tr_1705756084"/>
+                <RegionRefIndexed index="14" regionRef="tr_1705756094"/>
+                <RegionRefIndexed index="15" regionRef="tr_1705756099"/>
+                <RegionRefIndexed index="16" regionRef="tr_1705756082"/>
+                <RegionRefIndexed index="17" regionRef="tr_1705756091"/>
+                <RegionRefIndexed index="18" regionRef="tr_1705756090"/>
+                <RegionRefIndexed index="19" regionRef="tr_1705756089"/>
+                <RegionRefIndexed index="20" regionRef="tr_1705756087"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1705756098" custom="readingOrder {index:0;} structure {type:count-date;}">
+            <Coords points="58,42 1427,42 1427,128 58,128"/>
+            <TextLine id="tr_1705756098_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:16;conf:0.99;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:3;conf:0.99;} word_conf {offset:8; length:8;conf:1.00;}">
+                <Coords points="635,123 672,101 721,117 794,101 834,125 890,98 951,123 1000,105 1098,108 1098,61 1054,41 990,56 924,42 885,78 863,57 802,56 784,74 696,41 655,68 635,56"/>
+                <Baseline points="644,104 652,102 682,102 712,102 742,102 772,100 802,100 832,100 862,98 892,98 922,96 952,96 982,96 1012,96 1042,96 1072,96 1102,96"/>
+                <TextEquiv>
+                    <Unicode>den 17. Aprilis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756098_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:3;conf:0.99;} word_conf {offset:0; length:3;conf:0.99;}">
+                <Coords points="1285,122 1321,123 1341,105 1378,110 1381,46 1363,41 1351,44 1336,41 1317,57 1289,59"/>
+                <Baseline points="1296,102 1322,100 1352,100 1382,96"/>
+                <TextEquiv>
+                    <Unicode>56.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756098_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:4;conf:0.98;} word_conf {offset:0; length:4;conf:1.00;}">
+                <Coords points="7,108 27,115 171,115 184,110 186,78 138,54 132,61 117,56 88,68 71,49 54,49 47,56 39,47 27,47 19,56 8,56"/>
+                <Baseline points="16,108 38,106 68,104 98,104 128,102 158,102 188,102"/>
+                <TextEquiv>
+                    <Unicode>Num.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756098_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:2;conf:1.00;} word_conf {offset:0; length:2;conf:1.00;}">
+                <Coords points="1223,108 1246,108 1261,123 1292,120 1292,56 1268,59 1223,57"/>
+                <Baseline points="1232,102 1236,102 1266,104 1296,102"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756098_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:6;conf:0.96;} word_conf {offset:0; length:6;conf:0.99;}">
+                <Coords points="407,110 539,111 551,123 586,113 618,115 618,59 608,61 578,39 542,56 503,57 468,37 434,39 407,52"/>
+                <Baseline points="416,102 446,104 476,106 506,106 536,104 566,104 596,104 622,104"/>
+                <TextEquiv>
+                    <Unicode>Samsta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756098_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:3;conf:0.99;} word_conf {offset:0; length:3;conf:1.00;}">
+                <Coords points="179,125 209,122 225,108 238,106 250,118 262,115 260,66 248,66 238,56 213,56 209,59 204,56 177,57"/>
+                <Baseline points="188,102 220,104 250,104 266,104"/>
+                <TextEquiv>
+                    <Unicode>31.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756100" custom="readingOrder {index:1;} structure {type:figure;}">
+            <Coords points="21,158 334,158 334,374 21,374"/>
+            <TextLine id="tr_1705756100_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="115,348 128,348 133,355 162,365 187,365 199,363 209,355 223,356 228,309 218,309 199,292 189,290 176,296 157,292 142,306 118,314"/>
+                <Baseline points="124,346 140,352 170,354 200,348 228,338"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756101" custom="readingOrder {index:2;} structure {type:imprint;}">
+            <Coords points="36,411 1381,411 1381,538 36,538"/>
+            <TextLine id="tr_1705756101_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:61;conf:0.97;} word_conf {offset:0; length:8;conf:0.96;} word_conf {offset:9; length:2;conf:1.00;} word_conf {offset:12; length:3;conf:0.92;} word_conf {offset:16; length:8;conf:0.97;} word_conf {offset:25; length:7;conf:1.00;} word_conf {offset:33; length:13;conf:1.00;} word_conf {offset:47; length:14;conf:0.98;}">
+                <Coords points="22,475 1358,483 1381,407 22,424"/>
+                <Baseline points="32,466 62,470 92,466 122,466 152,464 182,464 212,464 242,464 272,464 302,462 332,462 362,462 392,462 422,460 452,460 482,460 512,460 542,458 572,458 602,458 632,458 662,458 692,458 722,458 752,458 782,458 812,456 842,456 872,456 902,456 932,458 962,458 992,458 1022,458 1052,460 1082,460 1112,458 1142,458 1172,458 1202,458 1232,458 1262,458 1292,458 1322,458 1352,458 1382,456"/>
+                <TextEquiv>
+                    <Unicode>Gedruckt in der Kaiserl. Königl. privilegirten Zeitungs=buch=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756101_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:63;conf:0.99;} word_conf {offset:0; length:9;conf:1.00;} word_conf {offset:10; length:2;conf:1.00;} word_conf {offset:13; length:5;conf:1.00;} word_conf {offset:19; length:14;conf:1.00;} word_conf {offset:34; length:3;conf:0.86;} word_conf {offset:38; length:3;conf:1.00;} word_conf {offset:42; length:10;conf:1.00;} word_conf {offset:53; length:10;conf:1.00;}">
+                <Coords points="81,524 1317,525 1317,475 1251,461 81,475"/>
+                <Baseline points="90,514 92,514 122,514 152,514 182,514 212,514 242,514 272,512 302,512 332,512 362,510 392,510 422,510 452,510 482,508 512,508 542,506 572,506 602,506 632,504 662,506 692,506 722,506 752,508 782,508 812,506 842,508 872,508 902,506 932,508 962,508 992,508 1022,508 1052,508 1082,508 1112,508 1142,508 1172,508 1202,508 1232,508 1262,508 1292,508 1322,510"/>
+                <TextEquiv>
+                    <Unicode>druckerey im neuen Michaeler=haus mit von Ghelischen Schriften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756096" custom="readingOrder {index:3;} structure {type:seperator-single;}">
+            <Coords points="65,554 1372,554 1372,580 65,580"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756085" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="153,609 548,609 548,704 153,704"/>
+            <TextLine id="tr_1705756085_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:12;conf:1.00;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:8;conf:1.00;}">
+                <Coords points="193,659 289,660 301,650 339,669 353,659 491,660 491,618 451,618 437,606 409,620 312,610 292,623 238,608 193,615"/>
+                <Baseline points="202,650 232,650 262,650 292,650 322,650 352,650 382,650 412,650 442,650 472,650 496,652"/>
+                <TextEquiv>
+                    <Unicode>Aus Spanien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756085_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:15;conf:0.95;} word_conf {offset:0; length:6;conf:1.00;} word_conf {offset:7; length:2;conf:0.83;} word_conf {offset:10; length:5;conf:1.00;}">
+                <Coords points="160,708 307,708 331,697 530,708 530,667 410,659 388,674 353,657 334,674 307,657 275,669 160,659"/>
+                <Baseline points="170,698 200,698 230,698 260,696 290,696 320,696 350,696 380,696 410,696 440,696 470,696 500,696 530,700 534,700"/>
+                <TextEquiv>
+                    <Unicode>Madrid 8. Mart.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756093" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="31,688 695,688 695,1162 31,1162"/>
+            <TextLine id="tr_1705756093_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:34;conf:0.98;} word_conf {offset:0; length:4;conf:1.00;} word_conf {offset:5; length:4;conf:1.00;} word_conf {offset:10; length:3;conf:1.00;} word_conf {offset:14; length:5;conf:1.00;} word_conf {offset:20; length:5;conf:1.00;} word_conf {offset:26; length:3;conf:1.00;} word_conf {offset:30; length:4;conf:1.00;}">
+                <Coords points="118,748 674,745 674,708 627,696 527,714 388,699 189,714 118,697"/>
+                <Baseline points="128,738 138,736 168,736 198,736 228,736 258,736 288,738 318,736 348,736 378,736 408,736 438,736 468,736 498,736 528,736 558,736 588,734 618,732 648,732 678,732"/>
+                <TextEquiv>
+                    <Unicode>Eine Maj. der König haben das Gou=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:36;conf:1.00;} word_conf {offset:0; length:9;conf:1.00;} word_conf {offset:10; length:3;conf:1.00;} word_conf {offset:14; length:9;conf:1.00;} word_conf {offset:24; length:3;conf:1.00;} word_conf {offset:28; length:8;conf:1.00;}">
+                <Coords points="130,784 633,787 674,780 676,746 130,748"/>
+                <Baseline points="140,774 168,772 198,772 228,774 258,774 288,774 318,774 348,774 378,772 408,774 438,774 468,774 498,772 528,772 558,772 588,772 618,772 648,772 678,770"/>
+                <TextEquiv>
+                    <Unicode>vernement des Schlosses St. Christo=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:37;conf:0.94;} word_conf {offset:0; length:3;conf:0.69;} word_conf {offset:4; length:4;conf:0.89;} word_conf {offset:9; length:2;conf:1.00;} word_conf {offset:12; length:7;conf:1.00;} word_conf {offset:20; length:1;conf:0.97;} word_conf {offset:22; length:3;conf:1.00;} word_conf {offset:26; length:3;conf:1.00;} word_conf {offset:30; length:7;conf:1.00;}">
+                <Coords points="41,812 676,819 676,780 142,789 41,745"/>
+                <Baseline points="50,796 80,804 110,806 138,808 144,810 174,810 204,812 234,812 264,812 294,812 324,812 354,814 384,812 414,812 444,812 474,810 504,810 534,810 564,810 594,810 624,808 654,808 680,810"/>
+                <TextEquiv>
+                    <Unicode>Se) phel zu Badajoz / dem Don Antonio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:42;conf:0.96;} word_conf {offset:0; length:2;conf:0.99;} word_conf {offset:3; length:2;conf:1.00;} word_conf {offset:6; length:4;conf:0.99;} word_conf {offset:11; length:7;conf:0.96;} word_conf {offset:19; length:6;conf:1.00;} word_conf {offset:26; length:12;conf:1.00;} word_conf {offset:39; length:3;conf:1.00;}">
+                <Coords points="35,846 230,866 676,860 676,817 319,834 35,809"/>
+                <Baseline points="44,842 74,842 104,844 134,846 164,846 194,848 224,848 254,850 284,848 314,848 344,848 374,848 404,848 434,850 464,848 494,848 524,848 554,848 584,848 614,846 644,846 674,846 680,848"/>
+                <TextEquiv>
+                    <Unicode>de la Riva Agnero, Obrist wachtmeister des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:9;conf:1.00;} word_conf {offset:10; length:3;conf:1.00;} word_conf {offset:14; length:11;conf:1.00;} word_conf {offset:26; length:11;conf:1.00;} word_conf {offset:38; length:2;conf:0.98;}">
+                <Coords points="35,882 676,898 676,858 650,853 35,849"/>
+                <Baseline points="44,878 74,880 104,882 134,882 164,882 194,886 224,886 254,886 284,886 314,886 344,886 374,884 404,886 434,884 464,884 494,884 524,884 554,884 584,884 614,884 644,884 674,884 680,884"/>
+                <TextEquiv>
+                    <Unicode>Regiments von Estremadura conferiret. Am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:39;conf:0.99;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:6;conf:1.00;} word_conf {offset:19; length:3;conf:0.93;} word_conf {offset:23; length:7;conf:1.00;} word_conf {offset:31; length:3;conf:1.00;} word_conf {offset:35; length:4;conf:1.00;}">
+                <Coords points="42,929 674,931 674,898 632,888 216,905 42,885"/>
+                <Baseline points="52,916 82,918 112,918 142,920 172,924 202,924 232,924 262,924 292,924 322,924 352,926 382,926 412,924 442,924 472,924 502,924 532,924 562,922 592,922 622,922 652,920 676,920"/>
+                <TextEquiv>
+                    <Unicode>Sonntag ist alhier der Marquis von Cla=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_7" custom="readingOrder {index:6;} line_conf {offset:0; length:35;conf:0.99;} word_conf {offset:0; length:8;conf:0.97;} word_conf {offset:9; length:7;conf:1.00;} word_conf {offset:17; length:1;conf:0.99;} word_conf {offset:19; length:11;conf:0.99;} word_conf {offset:31; length:4;conf:1.00;}">
+                <Coords points="32,964 353,985 373,964 682,971 681,932 620,927 588,946 399,927 370,951 345,927 167,947 32,929"/>
+                <Baseline points="42,954 72,954 102,956 132,958 162,958 192,960 222,962 252,962 282,962 312,962 342,962 372,964 402,962 432,962 462,962 492,962 522,960 552,962 582,962 612,960 642,962 672,960 684,960"/>
+                <TextEquiv>
+                    <Unicode>ramonte, Vicomte v Mendinueta, Rit=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_8" custom="readingOrder {index:7;} line_conf {offset:0; length:41;conf:0.98;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:3;conf:1.00;} word_conf {offset:8; length:11;conf:1.00;} word_conf {offset:20; length:3;conf:1.00;} word_conf {offset:24; length:17;conf:0.96;}">
+                <Coords points="27,1000 677,1010 677,969 27,968"/>
+                <Baseline points="36,992 66,992 96,994 126,994 156,996 186,996 216,998 246,998 276,998 306,998 336,998 366,998 396,998 426,998 456,1000 486,1000 516,998 546,998 576,998 606,998 636,998 666,1000 682,1000"/>
+                <TextEquiv>
+                    <Unicode>ter vom Groß=kreutz des Maltheser=ordens,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_9" custom="readingOrder {index:8;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:6;conf:1.00;} word_conf {offset:11; length:12;conf:1.00;} word_conf {offset:24; length:6;conf:0.95;} word_conf {offset:31; length:6;conf:0.92;} word_conf {offset:38; length:2;conf:1.00;}">
+                <Coords points="27,1035 681,1050 681,1012 608,1005 27,1001"/>
+                <Baseline points="36,1030 66,1030 96,1032 126,1032 156,1034 186,1034 216,1034 246,1034 276,1034 306,1036 336,1036 366,1036 396,1036 426,1036 456,1036 486,1036 516,1036 546,1036 576,1036 606,1036 636,1036 666,1034 684,1038"/>
+                <TextEquiv>
+                    <Unicode>vor diesem Bottschafter dieses Ordens am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_10" custom="readingOrder {index:9;} line_conf {offset:0; length:43;conf:0.99;} word_conf {offset:0; length:8;conf:1.00;} word_conf {offset:9; length:7;conf:1.00;} word_conf {offset:17; length:3;conf:1.00;} word_conf {offset:21; length:9;conf:1.00;} word_conf {offset:31; length:12;conf:0.96;}">
+                <Coords points="29,1077 677,1084 677,1050 339,1040 272,1059 199,1035 27,1035"/>
+                <Baseline points="38,1074 68,1070 98,1070 128,1070 158,1070 188,1070 218,1070 248,1070 278,1070 308,1072 338,1072 368,1074 398,1072 428,1072 458,1074 488,1074 518,1074 548,1074 578,1074 608,1074 638,1074 668,1072 682,1074"/>
+                <TextEquiv>
+                    <Unicode>hiesigen Königl. Hof honoraire General=leu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_11" custom="readingOrder {index:10;} line_conf {offset:0; length:40;conf:1.00;} word_conf {offset:0; length:6;conf:1.00;} word_conf {offset:7; length:5;conf:1.00;} word_conf {offset:13; length:7;conf:1.00;} word_conf {offset:21; length:6;conf:1.00;} word_conf {offset:28; length:3;conf:1.00;} word_conf {offset:32; length:2;conf:1.00;} word_conf {offset:35; length:5;conf:1.00;}">
+                <Coords points="27,1108 686,1123 684,1082 525,1098 274,1072 226,1091 27,1079"/>
+                <Baseline points="36,1104 66,1104 96,1104 126,1104 156,1104 186,1104 216,1106 246,1106 276,1106 306,1106 336,1106 366,1108 396,1108 426,1110 456,1110 486,1112 516,1112 546,1112 576,1110 606,1110 636,1112 666,1110 686,1112"/>
+                <TextEquiv>
+                    <Unicode>tenant deren Königl. Armeen rc. in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756093_tl_12" custom="readingOrder {index:11;} line_conf {offset:0; length:40;conf:0.97;} word_conf {offset:0; length:5;conf:1.00;} word_conf {offset:6; length:3;conf:1.00;} word_conf {offset:10; length:3;conf:1.00;} word_conf {offset:14; length:6;conf:1.00;} word_conf {offset:21; length:3;conf:0.99;} word_conf {offset:25; length:3;conf:1.00;} word_conf {offset:29; length:11;conf:0.97;}">
+                <Coords points="27,1152 625,1174 686,1158 686,1123 27,1106"/>
+                <Baseline points="36,1144 66,1144 96,1144 126,1144 156,1144 186,1144 216,1146 246,1146 276,1146 306,1146 336,1146 366,1146 396,1146 426,1148 456,1148 486,1150 516,1150 546,1152 576,1152 606,1150 636,1150 666,1148 690,1150"/>
+                <TextEquiv>
+                    <Unicode>Alter von 69. Jahren mit Tod abgegangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756097" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="198,1162 501,1162 501,1224 198,1224"/>
+            <TextLine id="tr_1705756097_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:12;conf:1.00;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:8;conf:1.00;}">
+                <Coords points="213,1209 307,1209 334,1228 353,1228 370,1211 478,1219 476,1177 446,1177 412,1162 390,1172 356,1160 311,1169 211,1164"/>
+                <Baseline points="220,1200 250,1200 280,1200 310,1200 340,1204 370,1204 400,1204 430,1204 460,1204 482,1206"/>
+                <TextEquiv>
+                    <Unicode>Aus Jtalien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756092" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="138,1212 575,1212 575,1271 138,1271"/>
+            <TextLine id="tr_1705756092_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:19;conf:1.00;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:7;conf:1.00;}">
+                <Coords points="145,1261 289,1275 329,1256 360,1275 402,1263 441,1277 566,1275 564,1219 414,1219 392,1241 375,1226 324,1233 144,1209"/>
+                <Baseline points="154,1252 184,1254 214,1254 244,1254 274,1254 304,1258 334,1256 364,1260 394,1258 424,1258 454,1260 484,1258 514,1260 544,1262 570,1262"/>
+                <TextEquiv>
+                    <Unicode>Venedig 13. Martii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756088" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="30,1247 688,1247 688,1754 30,1754"/>
+            <TextLine id="tr_1705756088_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:40;conf:0.99;} word_conf {offset:0; length:5;conf:1.00;} word_conf {offset:6; length:7;conf:0.94;} word_conf {offset:14; length:6;conf:1.00;} word_conf {offset:21; length:12;conf:1.00;} word_conf {offset:34; length:6;conf:1.00;}">
+                <Coords points="57,1300 645,1316 682,1305 682,1263 382,1283 328,1256 292,1275 56,1253"/>
+                <Baseline points="66,1292 96,1294 126,1294 156,1296 186,1296 216,1296 246,1296 276,1296 306,1296 336,1296 366,1298 396,1298 426,1298 456,1298 486,1298 516,1298 546,1298 576,1300 606,1300 636,1302 666,1298 686,1298"/>
+                <TextEquiv>
+                    <Unicode>Durch unseren alhier angelandeten Schif=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:34;conf:1.00;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:7;conf:1.00;} word_conf {offset:16; length:9;conf:0.99;} word_conf {offset:26; length:4;conf:1.00;} word_conf {offset:31; length:3;conf:1.00;}">
+                <Coords points="29,1331 682,1353 681,1307 601,1326 343,1304 314,1324 203,1302 150,1321 29,1294"/>
+                <Baseline points="38,1328 68,1330 98,1330 128,1332 158,1334 188,1334 218,1334 248,1334 278,1334 308,1336 338,1334 368,1334 398,1336 428,1336 458,1336 488,1336 518,1336 548,1338 578,1338 608,1338 638,1338 668,1338 684,1338"/>
+                <TextEquiv>
+                    <Unicode>capitan Adorno, vernimmet man, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:39;conf:0.97;} word_conf {offset:0; length:3;conf:0.99;} word_conf {offset:4; length:3;conf:1.00;} word_conf {offset:8; length:7;conf:1.00;} word_conf {offset:16; length:6;conf:0.95;} word_conf {offset:23; length:2;conf:1.00;} word_conf {offset:26; length:3;conf:1.00;} word_conf {offset:30; length:5;conf:1.00;} word_conf {offset:36; length:3;conf:1.00;}">
+                <Coords points="30,1371 687,1386 687,1348 608,1339 586,1356 30,1339"/>
+                <Baseline points="40,1366 70,1364 100,1368 130,1368 160,1370 190,1370 220,1372 250,1372 280,1372 310,1372 340,1372 370,1372 400,1372 430,1374 460,1372 490,1372 520,1374 550,1374 580,1374 610,1374 640,1374 670,1374 690,1374"/>
+                <TextEquiv>
+                    <Unicode>den 13. vorigen Monats in der Nacht ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:37;conf:0.99;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:9;conf:0.96;} word_conf {offset:18; length:3;conf:1.00;} word_conf {offset:22; length:3;conf:1.00;} word_conf {offset:26; length:5;conf:1.00;} word_conf {offset:32; length:5;conf:1.00;}">
+                <Coords points="37,1415 677,1420 664,1381 341,1393 279,1373 137,1392 37,1373"/>
+                <Baseline points="46,1406 74,1402 104,1404 134,1406 164,1408 194,1408 224,1408 254,1408 284,1410 314,1410 344,1410 374,1410 404,1410 434,1410 464,1410 494,1412 524,1412 554,1412 584,1410 614,1412 644,1412 674,1412 680,1414"/>
+                <TextEquiv>
+                    <Unicode>starkes Erd=beben auf der Jnsul Corfu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:40;conf:0.97;} word_conf {offset:0; length:10;conf:0.97;} word_conf {offset:11; length:7;conf:1.00;} word_conf {offset:19; length:7;conf:0.95;} word_conf {offset:27; length:7;conf:0.95;} word_conf {offset:35; length:5;conf:0.99;}">
+                <Coords points="35,1447 684,1459 672,1420 468,1429 407,1408 329,1437 287,1417 35,1412"/>
+                <Baseline points="44,1440 74,1440 104,1442 134,1444 164,1446 194,1446 224,1448 254,1448 284,1448 314,1448 344,1448 374,1448 404,1448 434,1448 464,1450 494,1448 524,1448 554,1448 584,1450 614,1450 644,1448 674,1448 688,1446"/>
+                <TextEquiv>
+                    <Unicode>verspühret worden, welches etliche Minu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:41;conf:0.99;} word_conf {offset:0; length:3;conf:0.97;} word_conf {offset:4; length:9;conf:1.00;} word_conf {offset:14; length:4;conf:1.00;} word_conf {offset:19; length:4;conf:1.00;} word_conf {offset:24; length:6;conf:0.93;} word_conf {offset:31; length:10;conf:1.00;}">
+                <Coords points="39,1476 230,1500 682,1496 682,1459 574,1449 415,1471 39,1446"/>
+                <Baseline points="48,1474 78,1474 108,1480 138,1482 168,1482 198,1484 228,1486 258,1486 288,1486 318,1486 348,1486 378,1488 408,1486 438,1486 468,1486 498,1486 528,1488 558,1486 588,1486 618,1486 648,1486 678,1488 686,1488"/>
+                <TextEquiv>
+                    <Unicode>ten gedauret, doch aber keinen besonderen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_7" custom="readingOrder {index:6;} line_conf {offset:0; length:42;conf:0.97;} word_conf {offset:0; length:7;conf:0.97;} word_conf {offset:8; length:12;conf:0.95;} word_conf {offset:21; length:2;conf:1.00;} word_conf {offset:24; length:3;conf:1.00;} word_conf {offset:28; length:4;conf:1.00;} word_conf {offset:33; length:3;conf:1.00;} word_conf {offset:37; length:5;conf:1.00;}">
+                <Coords points="47,1515 346,1542 686,1532 684,1500 660,1493 417,1491 363,1511 47,1481"/>
+                <Baseline points="56,1510 86,1512 116,1516 146,1518 176,1520 206,1522 236,1524 266,1524 296,1524 326,1526 356,1526 386,1526 416,1526 446,1526 476,1526 506,1526 536,1526 566,1526 596,1526 626,1526 656,1524 686,1524 690,1524"/>
+                <TextEquiv>
+                    <Unicode>Schaden verursachet; es ist auch auf unse=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_8" custom="readingOrder {index:7;} line_conf {offset:0; length:40;conf:0.99;} word_conf {offset:0; length:3;conf:0.99;} word_conf {offset:4; length:6;conf:1.00;} word_conf {offset:11; length:5;conf:1.00;} word_conf {offset:17; length:10;conf:1.00;} word_conf {offset:28; length:2;conf:1.00;} word_conf {offset:31; length:3;conf:1.00;} word_conf {offset:35; length:5;conf:1.00;}">
+                <Coords points="42,1550 150,1572 686,1579 686,1532 583,1547 366,1528 296,1550 41,1520"/>
+                <Baseline points="52,1548 82,1548 112,1554 142,1556 172,1558 202,1560 232,1562 262,1562 292,1562 322,1564 352,1564 382,1564 412,1564 442,1564 472,1564 502,1564 532,1564 562,1564 592,1564 622,1564 652,1564 682,1566 690,1564"/>
+                <TextEquiv>
+                    <Unicode>ren festen Land, sonderlich in der Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_9" custom="readingOrder {index:8;} line_conf {offset:0; length:39;conf:1.00;} word_conf {offset:0; length:7;conf:0.99;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:7;conf:1.00;} word_conf {offset:20; length:7;conf:1.00;} word_conf {offset:28; length:3;conf:1.00;} word_conf {offset:32; length:3;conf:1.00;} word_conf {offset:36; length:3;conf:0.98;}">
+                <Coords points="44,1596 289,1620 682,1613 681,1579 586,1567 478,1591 441,1572 218,1581 44,1554"/>
+                <Baseline points="54,1590 84,1588 114,1590 144,1594 174,1596 204,1596 234,1598 264,1600 294,1600 324,1602 354,1602 384,1600 414,1602 444,1602 474,1602 504,1602 534,1602 564,1602 594,1602 624,1604 654,1604 684,1604"/>
+                <TextEquiv>
+                    <Unicode>Feltre, und dasiger Gegend, und den 25.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_10" custom="readingOrder {index:9;} line_conf {offset:0; length:41;conf:0.97;} word_conf {offset:0; length:7;conf:0.95;} word_conf {offset:8; length:6;conf:1.00;} word_conf {offset:15; length:2;conf:1.00;} word_conf {offset:18; length:7;conf:1.00;} word_conf {offset:26; length:3;conf:1.00;} word_conf {offset:30; length:11;conf:0.96;}">
+                <Coords points="47,1630 402,1660 686,1650 684,1611 343,1606 287,1625 47,1596"/>
+                <Baseline points="56,1622 86,1624 116,1626 146,1628 176,1632 206,1634 236,1636 266,1638 296,1640 326,1640 356,1640 386,1640 416,1640 446,1640 476,1640 506,1640 536,1640 566,1640 596,1642 626,1642 656,1640 686,1644 688,1644"/>
+                <TextEquiv>
+                    <Unicode>vörigen Monats zu Bassano ein dergleichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_11" custom="readingOrder {index:10;} line_conf {offset:0; length:44;conf:0.98;} word_conf {offset:0; length:7;conf:0.94;} word_conf {offset:8; length:8;conf:0.97;} word_conf {offset:17; length:9;conf:1.00;} word_conf {offset:27; length:3;conf:1.00;} word_conf {offset:31; length:4;conf:0.99;} word_conf {offset:36; length:3;conf:0.99;} word_conf {offset:40; length:4;conf:0.99;}">
+                <Coords points="42,1667 654,1694 684,1690 684,1653 518,1641 412,1663 41,1635"/>
+                <Baseline points="52,1662 82,1660 112,1662 142,1666 172,1668 202,1670 232,1674 262,1676 292,1676 322,1676 352,1678 382,1678 412,1678 442,1678 472,1678 502,1678 532,1680 562,1678 592,1678 622,1680 652,1678 682,1676 688,1676"/>
+                <TextEquiv>
+                    <Unicode>starker Erd=stoß erfolget, daß sich die Jnn=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_12" custom="readingOrder {index:11;} line_conf {offset:0; length:40;conf:0.97;} word_conf {offset:0; length:6;conf:0.92;} word_conf {offset:7; length:9;conf:0.96;} word_conf {offset:17; length:6;conf:1.00;} word_conf {offset:24; length:3;conf:1.00;} word_conf {offset:28; length:3;conf:1.00;} word_conf {offset:32; length:4;conf:1.00;} word_conf {offset:37; length:3;conf:1.00;}">
+                <Coords points="39,1707 198,1731 686,1729 684,1690 297,1694 37,1667"/>
+                <Baseline points="48,1698 78,1698 108,1700 138,1702 168,1706 198,1710 228,1712 258,1714 288,1716 318,1716 348,1716 378,1716 408,1716 438,1718 468,1718 498,1718 528,1718 558,1720 588,1718 618,1718 648,1718 678,1718 688,1714"/>
+                <TextEquiv>
+                    <Unicode>wohner mehresten Theils auf das Feld ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756088_tl_13" custom="readingOrder {index:12;} line_conf {offset:0; length:9;conf:0.98;} word_conf {offset:0; length:9;conf:0.98;}">
+                <Coords points="41,1756 66,1756 74,1748 88,1748 95,1755 105,1756 120,1748 133,1748 142,1755 154,1756 152,1716 123,1716 110,1706 93,1711 81,1702 54,1702 51,1707 39,1707"/>
+                <Baseline points="50,1742 80,1738 110,1740 140,1742 158,1744"/>
+                <TextEquiv>
+                    <Unicode>flüchter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756086" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="148,1746 561,1746 561,1810 148,1810"/>
+            <TextLine id="tr_1705756086_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:18;conf:0.99;} word_conf {offset:0; length:6;conf:1.00;} word_conf {offset:7; length:3;conf:1.00;} word_conf {offset:11; length:7;conf:0.98;}">
+                <Coords points="154,1804 187,1793 263,1810 316,1792 341,1809 551,1812 549,1761 475,1768 400,1751 326,1768 307,1750 236,1765 184,1739 152,1748"/>
+                <Baseline points="162,1792 192,1792 222,1792 252,1794 282,1794 312,1796 342,1798 372,1798 402,1798 432,1798 462,1798 492,1800 522,1802 552,1804 554,1804"/>
+                <TextEquiv>
+                    <Unicode>Neapel 16. Martii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756083" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="31,1790 692,1790 692,2019 31,2019"/>
+            <TextLine id="tr_1705756083_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:34;conf:0.97;} word_conf {offset:0; length:6;conf:1.00;} word_conf {offset:7; length:2;conf:1.00;} word_conf {offset:10; length:9;conf:1.00;} word_conf {offset:20; length:8;conf:0.87;} word_conf {offset:29; length:5;conf:0.99;}">
+                <Coords points="69,1826 301,1851 684,1849 682,1802 449,1805 419,1829 395,1809 247,1804 223,1824 189,1793 68,1790"/>
+                <Baseline points="76,1820 106,1822 136,1826 166,1828 196,1830 226,1834 256,1834 286,1836 316,1836 346,1838 376,1838 406,1840 436,1840 466,1840 496,1840 526,1840 556,1840 586,1842 616,1840 646,1840 676,1840 686,1840"/>
+                <TextEquiv>
+                    <Unicode>Unsere 6. bewafnete Bebequen seynd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756083_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:4;conf:1.00;} word_conf {offset:9; length:5;conf:0.93;} word_conf {offset:15; length:5;conf:1.00;} word_conf {offset:21; length:9;conf:1.00;} word_conf {offset:31; length:5;conf:1.00;} word_conf {offset:37; length:3;conf:0.95;}">
+                <Coords points="35,1861 311,1891 686,1893 684,1849 515,1863 34,1827"/>
+                <Baseline points="44,1858 74,1858 104,1860 134,1864 164,1868 194,1868 224,1870 254,1872 284,1874 314,1876 344,1876 374,1878 404,1878 434,1878 464,1878 494,1878 524,1880 554,1880 584,1878 614,1878 644,1878 674,1878 688,1880"/>
+                <TextEquiv>
+                    <Unicode>von hier unter Segel gegangen, wider die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756083_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:41;conf:0.93;} word_conf {offset:0; length:11;conf:0.95;} word_conf {offset:12; length:10;conf:0.87;} word_conf {offset:23; length:2;conf:1.00;} word_conf {offset:26; length:9;conf:0.97;} word_conf {offset:36; length:5;conf:0.95;}">
+                <Coords points="30,1902 383,1934 682,1923 681,1891 632,1883 583,1905 29,1856"/>
+                <Baseline points="40,1894 70,1894 100,1898 130,1900 160,1904 190,1906 220,1908 250,1910 280,1912 310,1912 340,1914 370,1914 400,1916 430,1916 460,1916 490,1916 520,1916 550,1916 580,1916 610,1916 640,1916 670,1916 686,1916"/>
+                <TextEquiv>
+                    <Unicode>barbarische Ste=räuber zu kreutzen. Unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756083_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:43;conf:0.99;} word_conf {offset:0; length:7;conf:0.99;} word_conf {offset:8; length:6;conf:0.97;} word_conf {offset:15; length:9;conf:1.00;} word_conf {offset:25; length:5;conf:1.00;} word_conf {offset:31; length:7;conf:1.00;} word_conf {offset:39; length:4;conf:1.00;}">
+                <Coords points="37,1939 230,1951 262,1972 606,1971 687,1964 686,1923 392,1935 35,1907"/>
+                <Baseline points="46,1934 76,1934 106,1936 136,1940 166,1942 196,1944 226,1946 256,1948 286,1950 316,1950 346,1952 376,1952 406,1952 436,1954 466,1954 496,1954 526,1954 556,1954 586,1954 616,1954 646,1954 676,1954 688,1952"/>
+                <TextEquiv>
+                    <Unicode>anderen vielen seltsamen alten Sachen, wel=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756083_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:39;conf:0.98;} word_conf {offset:0; length:3;conf:0.90;} word_conf {offset:4; length:9;conf:1.00;} word_conf {offset:14; length:2;conf:1.00;} word_conf {offset:17; length:8;conf:0.96;} word_conf {offset:26; length:8;conf:1.00;} word_conf {offset:35; length:4;conf:1.00;}">
+                <Coords points="41,1983 431,2020 686,2011 664,1962 269,1974 230,1952 39,1939"/>
+                <Baseline points="48,1970 78,1976 108,1978 138,1982 168,1986 198,1986 228,1990 258,1994 288,1994 318,1994 348,1994 378,1994 408,1996 438,1998 468,2000 498,1998 528,1998 558,1998 588,1998 618,1996 648,1996 678,2002 688,2002"/>
+                <TextEquiv>
+                    <Unicode>che mehrmalen zu Excolano gefunden wor=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756102" custom="readingOrder {index:11;} structure {type:main-title;}">
+            <Coords points="344,129 1103,129 1103,369 344,369"/>
+            <TextLine id="tr_1705756102_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:6;conf:0.66;} word_conf {offset:0; length:6;conf:0.55;}">
+                <Coords points="503,236 534,243 640,220 728,220 751,236 785,221 821,236 865,221 868,162 817,144 684,160 507,137"/>
+                <Baseline points="512,224 534,224 564,223 564,223 568,224 598,216 628,214 658,212 688,212 718,212 748,212 778,210 808,210 838,208 869,205"/>
+                <TextEquiv>
+                    <Unicode>Geesse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756102_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:8;conf:0.97;} word_conf {offset:0; length:8;conf:0.96;}">
+                <Coords points="307,346 949,365 1116,341 1030,306 990,331 947,287 892,328 795,338 735,338 684,297 630,324 593,285 480,333 372,299 307,334"/>
+                <Baseline points="316,350 340,350 370,350 400,350 430,350 460,348 490,348 520,348 550,348 580,346 610,348 640,348 670,346 700,346 730,348 760,348 790,348 820,344 850,346 880,346 910,348 940,348 970,348 1000,348 1030,348 1060,348 1090,348 1121,345"/>
+                <TextEquiv>
+                    <Unicode>DIARIUM.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756095" custom="readingOrder {index:12;} structure {type:figure;}">
+            <Coords points="1059,151 1389,151 1389,364 1059,364"/>
+            <TextLine id="tr_1705756095_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1299,258 1341,252 1348,243 1353,247 1361,247 1359,193 1344,194 1334,184 1329,184 1322,191 1305,189 1297,191"/>
+                <Baseline points="1308,242 1338,246 1366,244"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756095_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:1;conf:0.70;} word_conf {offset:0; length:1;conf:0.16;}">
+                <Coords points="1111,350 1120,350 1133,363 1160,363 1169,355 1187,356 1187,306 1174,306 1164,316 1155,319 1130,301 1111,299"/>
+                <Baseline points="1121,345 1152,352 1182,348 1192,346"/>
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756084" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="709,601 1403,601 1403,840 709,840"/>
+            <TextLine id="tr_1705756084_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:42;conf:1.00;} word_conf {offset:0; length:4;conf:0.99;} word_conf {offset:5; length:8;conf:1.00;} word_conf {offset:14; length:4;conf:1.00;} word_conf {offset:19; length:4;conf:1.00;} word_conf {offset:24; length:4;conf:1.00;} word_conf {offset:29; length:8;conf:1.00;} word_conf {offset:38; length:4;conf:1.00;}">
+                <Coords points="706,648 1388,652 1388,613 1321,596 1300,613 706,611"/>
+                <Baseline points="716,644 746,642 776,642 806,642 836,642 866,642 896,642 926,642 956,642 986,642 1016,642 1046,642 1076,642 1106,642 1136,642 1166,642 1196,642 1226,642 1256,642 1286,642 1316,642 1346,644 1376,642 1390,644"/>
+                <TextEquiv>
+                    <Unicode>den, befindet sich auch eine silberne Son=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756084_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:42;conf:0.99;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:17;conf:1.00;} word_conf {offset:30; length:7;conf:1.00;} word_conf {offset:38; length:4;conf:1.00;}">
+                <Coords points="706,689 1383,691 1383,657 1348,650 1302,669 1101,643 706,662"/>
+                <Baseline points="716,682 728,680 758,680 788,680 818,680 848,680 878,680 908,680 938,680 968,680 998,680 1028,680 1058,680 1088,680 1118,682 1148,680 1178,682 1208,682 1238,682 1268,682 1298,680 1328,682 1358,682 1388,680"/>
+                <TextEquiv>
+                    <Unicode>nen=uhr von unvergleichlicher arbeit. Ver=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756084_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:41;conf:0.98;} word_conf {offset:0; length:9;conf:0.96;} word_conf {offset:10; length:6;conf:0.99;} word_conf {offset:17; length:5;conf:1.00;} word_conf {offset:23; length:6;conf:1.00;} word_conf {offset:30; length:11;conf:0.98;}">
+                <Coords points="711,724 1386,726 1386,691 1294,681 1186,704 711,691"/>
+                <Baseline points="720,722 730,722 760,718 790,718 820,718 850,718 880,716 910,716 940,718 970,716 1000,716 1030,718 1060,718 1090,718 1120,718 1150,718 1180,718 1210,718 1240,718 1270,718 1300,720 1330,720 1360,720 1390,718"/>
+                <TextEquiv>
+                    <Unicode>schiedene dieser Tagen alhier angekommene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756084_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:39;conf:0.98;} word_conf {offset:0; length:9;conf:0.95;} word_conf {offset:10; length:10;conf:0.98;} word_conf {offset:21; length:3;conf:1.00;} word_conf {offset:25; length:4;conf:1.00;} word_conf {offset:30; length:2;conf:1.00;} word_conf {offset:33; length:6;conf:0.99;}">
+                <Coords points="714,772 878,755 1390,772 1390,731 1365,726 714,728"/>
+                <Baseline points="724,760 754,756 784,756 814,754 844,754 874,754 904,754 934,754 964,754 994,754 1024,754 1054,754 1084,754 1114,756 1144,756 1174,756 1204,756 1234,758 1264,758 1294,756 1324,758 1354,758 1384,760 1394,760"/>
+                <TextEquiv>
+                    <Unicode>Fahrzeuge berichten, daß auch zu Maltha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756084_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:42;conf:0.97;} word_conf {offset:0; length:2;conf:1.00;} word_conf {offset:3; length:9;conf:0.94;} word_conf {offset:13; length:10;conf:0.95;} word_conf {offset:24; length:7;conf:1.00;} word_conf {offset:32; length:6;conf:1.00;} word_conf {offset:39; length:3;conf:1.00;}">
+                <Coords points="721,804 1383,804 1383,770 1312,763 721,773"/>
+                <Baseline points="731,793 762,792 792,792 822,792 852,792 882,792 912,792 942,792 972,792 1002,792 1032,794 1062,792 1092,794 1122,792 1152,792 1182,794 1212,794 1242,794 1272,794 1302,796 1332,796 1362,796 1388,794"/>
+                <TextEquiv>
+                    <Unicode>2. Erd=beben verspühret worden, welche je=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756084_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:32;conf:0.94;} word_conf {offset:0; length:4;conf:0.88;} word_conf {offset:5; length:6;conf:0.95;} word_conf {offset:12; length:7;conf:0.91;} word_conf {offset:20; length:12;conf:0.96;}">
+                <Coords points="714,843 784,851 895,829 917,844 1228,844 1228,812 1172,799 1037,814 931,794 897,809 714,804"/>
+                <Baseline points="724,832 754,832 784,832 814,830 844,830 874,830 904,828 934,830 964,830 994,830 1024,828 1054,830 1084,830 1114,830 1144,830 1174,832 1204,832 1230,834"/>
+                <TextEquiv>
+                    <Unicode>doch keinen Schaden verursachet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756094" custom="readingOrder {index:14;} structure {type:heading;}">
+            <Coords points="859,836 1235,836 1235,883 859,883"/>
+            <TextLine id="tr_1705756094_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:15;conf:0.96;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:3;conf:1.00;} word_conf {offset:8; length:7;conf:0.94;}">
+                <Coords points="865,885 961,883 978,871 990,883 1226,883 1226,839 1214,836 1093,836 1061,851 983,851 909,834 865,841"/>
+                <Baseline points="874,872 904,872 934,872 964,870 994,870 1024,870 1054,870 1084,872 1114,872 1144,872 1174,872 1204,874 1230,876"/>
+                <TextEquiv>
+                    <Unicode>Rom 20. Martii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756099" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="707,870 1404,870 1404,1299 707,1299"/>
+            <TextLine id="tr_1705756099_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:38;conf:0.98;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:7;conf:0.94;} word_conf {offset:12; length:5;conf:1.00;} word_conf {offset:18; length:5;conf:1.00;} word_conf {offset:24; length:3;conf:0.95;} word_conf {offset:28; length:6;conf:1.00;} word_conf {offset:35; length:3;conf:1.00;}">
+                <Coords points="753,924 1388,925 1388,887 1251,870 1221,890 1062,875 1039,897 979,873 946,897 866,873 753,882"/>
+                <Baseline points="762,910 792,912 822,912 852,912 882,912 912,912 942,912 972,910 1002,912 1032,912 1062,912 1092,912 1122,912 1152,912 1182,914 1212,912 1242,914 1272,914 1302,914 1332,914 1362,914 1392,916"/>
+                <TextEquiv>
+                    <Unicode>Se. Päbstl. Heil. haben von Trient die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:40;conf:0.99;} word_conf {offset:0; length:9;conf:1.00;} word_conf {offset:10; length:9;conf:1.00;} word_conf {offset:20; length:3;conf:1.00;} word_conf {offset:24; length:3;conf:1.00;} word_conf {offset:28; length:8;conf:1.00;} word_conf {offset:37; length:3;conf:1.00;}">
+                <Coords points="711,963 1388,969 1376,922 711,915"/>
+                <Baseline points="720,952 750,950 780,952 810,952 840,952 870,950 900,950 930,950 960,950 990,950 1020,950 1050,950 1080,950 1110,952 1140,950 1170,950 1200,952 1230,952 1260,952 1290,952 1320,952 1350,954 1380,954 1392,956"/>
+                <TextEquiv>
+                    <Unicode>Nachricht erhalten, daß der Dommherr Al=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:5;conf:0.93;} word_conf {offset:6; length:5;conf:1.00;} word_conf {offset:12; length:3;conf:1.00;} word_conf {offset:16; length:7;conf:1.00;} word_conf {offset:24; length:7;conf:1.00;} word_conf {offset:32; length:3;conf:1.00;} word_conf {offset:36; length:4;conf:1.00;}">
+                <Coords points="713,998 1388,996 1388,969 1331,961 713,963"/>
+                <Baseline points="722,988 752,988 782,988 812,988 842,988 872,988 902,988 932,988 962,988 992,988 1022,988 1052,988 1082,988 1112,988 1142,988 1172,988 1202,988 1232,990 1262,990 1292,990 1322,990 1352,990 1382,990 1392,992"/>
+                <TextEquiv>
+                    <Unicode>berti durch die mehrere Stimmen zum neu=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:39;conf:0.98;} word_conf {offset:0; length:2;conf:1.00;} word_conf {offset:3; length:9;conf:1.00;} word_conf {offset:13; length:3;conf:1.00;} word_conf {offset:17; length:7;conf:1.00;} word_conf {offset:25; length:7;conf:1.00;} word_conf {offset:33; length:6;conf:1.00;}">
+                <Coords points="713,1035 1386,1042 1386,998 1358,996 1267,1017 1241,993 713,1003"/>
+                <Baseline points="722,1026 752,1026 782,1024 812,1024 842,1024 872,1026 902,1024 932,1026 962,1024 992,1024 1022,1026 1052,1026 1082,1026 1112,1026 1142,1026 1172,1026 1202,1026 1232,1028 1262,1028 1292,1028 1322,1028 1352,1028 1382,1028 1390,1026"/>
+                <TextEquiv>
+                    <Unicode>en Coadjutor des dasigen Bistums erwäh=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:35;conf:0.97;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:7;conf:0.93;} word_conf {offset:12; length:8;conf:0.99;} word_conf {offset:21; length:3;conf:1.00;} word_conf {offset:25; length:6;conf:1.00;} word_conf {offset:32; length:3;conf:1.00;}">
+                <Coords points="714,1072 1383,1074 1383,1042 1272,1032 714,1035"/>
+                <Baseline points="724,1064 754,1064 784,1064 814,1064 844,1062 874,1062 904,1062 934,1060 964,1062 994,1062 1024,1062 1054,1062 1084,1062 1114,1062 1144,1064 1174,1064 1204,1064 1234,1064 1264,1064 1294,1066 1324,1066 1354,1066 1384,1068 1388,1066"/>
+                <TextEquiv>
+                    <Unicode>let worden. Nachdeme das Bistum von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:41;conf:0.98;} word_conf {offset:0; length:7;conf:0.99;} word_conf {offset:8; length:2;conf:1.00;} word_conf {offset:11; length:3;conf:1.00;} word_conf {offset:15; length:14;conf:0.99;} word_conf {offset:30; length:5;conf:1.00;} word_conf {offset:36; length:5;conf:1.00;}">
+                <Coords points="711,1108 1381,1111 1366,1072 711,1072"/>
+                <Baseline points="720,1100 750,1102 780,1102 810,1100 840,1100 870,1100 900,1100 930,1100 960,1098 990,1098 1020,1100 1050,1100 1080,1100 1110,1100 1140,1100 1170,1102 1200,1100 1230,1102 1260,1102 1290,1102 1320,1102 1350,1102 1380,1104 1386,1104"/>
+                <TextEquiv>
+                    <Unicode>Belluno in dem Venetianischen Staat durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_7" custom="readingOrder {index:6;} line_conf {offset:0; length:40;conf:1.00;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:10;conf:1.00;} word_conf {offset:15; length:3;conf:1.00;} word_conf {offset:19; length:7;conf:1.00;} word_conf {offset:27; length:7;conf:1.00;} word_conf {offset:35; length:5;conf:0.99;}">
+                <Coords points="714,1147 1390,1155 1390,1115 1358,1108 714,1111"/>
+                <Baseline points="724,1140 754,1138 784,1140 814,1138 844,1138 874,1138 904,1138 934,1138 964,1138 994,1138 1024,1138 1054,1138 1084,1138 1114,1138 1144,1138 1174,1138 1204,1138 1234,1138 1264,1140 1294,1140 1324,1140 1354,1140 1384,1142 1394,1142"/>
+                <TextEquiv>
+                    <Unicode>den Todes=fall des Monsig. Giacomo Costa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_8" custom="readingOrder {index:7;} line_conf {offset:0; length:41;conf:0.98;} word_conf {offset:0; length:2;conf:1.00;} word_conf {offset:3; length:10;conf:1.00;} word_conf {offset:14; length:9;conf:0.95;} word_conf {offset:24; length:2;conf:1.00;} word_conf {offset:27; length:3;conf:1.00;} word_conf {offset:31; length:6;conf:1.00;} word_conf {offset:38; length:3;conf:1.00;}">
+                <Coords points="714,1182 1388,1187 1388,1153 1344,1148 714,1150"/>
+                <Baseline points="724,1178 754,1176 784,1176 814,1176 844,1176 874,1176 904,1176 934,1176 964,1176 994,1176 1024,1176 1054,1176 1084,1176 1114,1176 1144,1176 1174,1178 1204,1178 1234,1178 1264,1178 1294,1178 1324,1180 1354,1180 1384,1180 1390,1180"/>
+                <TextEquiv>
+                    <Unicode>in Erledigung gekommen, so ist selbes dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_9" custom="readingOrder {index:8;} line_conf {offset:0; length:41;conf:0.97;} word_conf {offset:0; length:10;conf:1.00;} word_conf {offset:11; length:7;conf:0.99;} word_conf {offset:19; length:3;conf:1.00;} word_conf {offset:23; length:4;conf:1.00;} word_conf {offset:28; length:8;conf:0.95;} word_conf {offset:37; length:4;conf:1.00;}">
+                <Coords points="714,1223 1388,1223 1388,1187 1321,1177 1297,1194 714,1187"/>
+                <Baseline points="724,1214 754,1214 784,1214 814,1214 844,1214 874,1212 904,1212 934,1214 964,1214 994,1214 1024,1214 1054,1214 1084,1214 1114,1214 1144,1214 1174,1214 1204,1216 1234,1216 1264,1216 1294,1216 1324,1216 1354,1216 1384,1216 1392,1214"/>
+                <TextEquiv>
+                    <Unicode>dermaligen Bischof von Capo d'Jstria Mon=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_10" custom="readingOrder {index:9;} line_conf {offset:0; length:42;conf:0.97;} word_conf {offset:0; length:4;conf:0.99;} word_conf {offset:5; length:8;conf:0.91;} word_conf {offset:14; length:7;conf:1.00;} word_conf {offset:22; length:5;conf:1.00;} word_conf {offset:28; length:3;conf:1.00;} word_conf {offset:32; length:3;conf:0.99;} word_conf {offset:36; length:6;conf:0.99;}">
+                <Coords points="716,1261 1386,1268 1386,1224 1297,1218 716,1223"/>
+                <Baseline points="726,1256 756,1254 786,1250 816,1250 846,1252 876,1250 906,1250 936,1250 966,1250 996,1250 1026,1250 1056,1252 1086,1252 1116,1252 1146,1252 1176,1254 1206,1254 1236,1254 1266,1256 1296,1256 1326,1258 1356,1256 1386,1256 1390,1256"/>
+                <TextEquiv>
+                    <Unicode>sig. Giovanni Baptist Sandi von Sr. Päbst=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756099_tl_11" custom="readingOrder {index:10;} line_conf {offset:0; length:35;conf:0.97;} word_conf {offset:0; length:6;conf:0.86;} word_conf {offset:7; length:10;conf:1.00;} word_conf {offset:18; length:9;conf:1.00;} word_conf {offset:28; length:7;conf:1.00;}">
+                <Coords points="714,1295 762,1309 816,1292 836,1307 851,1292 969,1289 1025,1307 1111,1290 1236,1299 1236,1270 1179,1258 1111,1272 1093,1258 882,1255 714,1267"/>
+                <Baseline points="724,1292 730,1292 760,1292 790,1288 820,1288 850,1288 880,1288 910,1288 940,1288 970,1288 1000,1288 1030,1288 1060,1288 1090,1290 1120,1290 1150,1290 1180,1290 1210,1290 1240,1290"/>
+                <TextEquiv>
+                    <Unicode>lichen Heiligkeit ertheilet worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756082" custom="readingOrder {index:16;} structure {type:heading;}">
+            <Coords points="832,1290 1269,1290 1269,1346 832,1346"/>
+            <TextLine id="tr_1705756082_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:19;conf:0.98;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:7;conf:1.00;}">
+                <Coords points="839,1339 947,1334 1008,1348 1022,1334 1094,1332 1142,1348 1167,1337 1260,1348 1260,1302 1246,1297 1111,1290 1091,1310 1057,1297 1020,1310 976,1290 942,1302 839,1294"/>
+                <Baseline points="848,1328 878,1330 908,1328 938,1330 968,1330 998,1330 1028,1330 1058,1330 1088,1330 1118,1332 1148,1332 1178,1332 1208,1334 1238,1334 1262,1338"/>
+                <TextEquiv>
+                    <Unicode>Venedig 20. Martii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756091" custom="readingOrder {index:17;} structure {type:paragraph;}">
+            <Coords points="718,1332 1392,1332 1392,1537 718,1537"/>
+            <TextLine id="tr_1705756091_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:35;conf:0.99;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:3;conf:1.00;} word_conf {offset:8; length:10;conf:1.00;} word_conf {offset:19; length:3;conf:1.00;} word_conf {offset:23; length:3;conf:1.00;} word_conf {offset:27; length:1;conf:1.00;} word_conf {offset:29; length:6;conf:0.98;}">
+                <Coords points="755,1378 1388,1390 1388,1341 1363,1336 1126,1339 1103,1359 1066,1337 755,1334"/>
+                <Baseline points="764,1370 794,1368 824,1368 854,1370 884,1368 914,1368 944,1368 974,1368 1004,1370 1034,1370 1064,1370 1094,1370 1124,1370 1154,1372 1184,1372 1214,1372 1244,1374 1274,1374 1304,1376 1334,1376 1364,1376 1392,1378"/>
+                <TextEquiv>
+                    <Unicode>Man hat Nachricht, daß den 2 dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756091_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:36;conf:0.98;} word_conf {offset:0; length:4;conf:1.00;} word_conf {offset:5; length:2;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:6;conf:1.00;} word_conf {offset:19; length:3;conf:1.00;} word_conf {offset:23; length:4;conf:1.00;} word_conf {offset:28; length:2;conf:1.00;} word_conf {offset:31; length:5;conf:1.00;}">
+                <Coords points="719,1419 1388,1420 1388,1390 1363,1383 719,1378"/>
+                <Baseline points="728,1408 758,1406 788,1406 818,1406 848,1406 878,1406 908,1406 938,1406 968,1406 998,1406 1028,1406 1058,1408 1088,1408 1118,1408 1148,1408 1178,1410 1208,1410 1238,1410 1268,1412 1298,1410 1328,1412 1358,1412 1388,1414 1392,1416"/>
+                <TextEquiv>
+                    <Unicode>auch in der Gegend des Lago di Garda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756091_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:41;conf:0.96;} word_conf {offset:0; length:2;conf:0.94;} word_conf {offset:3; length:9;conf:0.97;} word_conf {offset:13; length:3;conf:0.83;} word_conf {offset:17; length:10;conf:0.95;} word_conf {offset:28; length:9;conf:1.00;} word_conf {offset:38; length:3;conf:1.00;}">
+                <Coords points="714,1454 1390,1461 1390,1422 1229,1410 714,1420"/>
+                <Baseline points="724,1448 754,1444 784,1444 814,1444 844,1444 874,1444 904,1444 934,1446 964,1444 994,1446 1024,1444 1054,1444 1084,1444 1114,1446 1144,1446 1174,1448 1204,1448 1234,1450 1264,1450 1294,1450 1324,1450 1354,1450 1384,1452 1394,1454"/>
+                <TextEquiv>
+                    <Unicode>2. Erd=beben mit besonderen Umständen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756091_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:5;conf:1.00;} word_conf {offset:6; length:3;conf:1.00;} word_conf {offset:10; length:4;conf:1.00;} word_conf {offset:15; length:6;conf:1.00;} word_conf {offset:22; length:8;conf:0.93;} word_conf {offset:31; length:9;conf:1.00;}">
+                <Coords points="721,1491 1380,1508 1386,1468 719,1456"/>
+                <Baseline points="730,1484 760,1482 790,1482 820,1482 850,1482 880,1482 910,1484 940,1484 970,1484 1000,1484 1030,1484 1060,1484 1090,1486 1120,1486 1150,1486 1180,1488 1210,1488 1240,1490 1270,1488 1300,1490 1330,1492 1360,1492 1390,1496"/>
+                <TextEquiv>
+                    <Unicode>denen man aber nichts gewisses erfahren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756091_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:18;conf:1.00;} word_conf {offset:0; length:10;conf:1.00;} word_conf {offset:11; length:7;conf:0.99;}">
+                <Coords points="714,1527 780,1540 809,1533 822,1547 887,1523 914,1533 1012,1532 1012,1491 927,1500 902,1489 841,1493 819,1481 770,1498 714,1493"/>
+                <Baseline points="724,1524 746,1524 776,1524 806,1524 836,1524 866,1524 896,1522 926,1522 956,1522 986,1522 1016,1522"/>
+                <TextEquiv>
+                    <Unicode>verspühret worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="tr_1705756090" custom="readingOrder {index:18;} structure {type:heading;}">
+            <Coords points="854,1526 1274,1526 1274,1577 854,1577"/>
+            <TextLine id="tr_1705756090_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:17;conf:0.97;} word_conf {offset:0; length:5;conf:1.00;} word_conf {offset:6; length:3;conf:1.00;} word_conf {offset:10; length:7;conf:1.00;}">
+                <Coords points="855,1572 1261,1576 1261,1533 1236,1528 1111,1528 1086,1549 888,1523 855,1537"/>
+                <Baseline points="864,1564 894,1566 924,1564 954,1566 984,1564 1014,1564 1044,1566 1074,1566 1104,1568 1134,1568 1164,1568 1194,1568 1224,1568 1254,1570 1266,1570"/>
+                <TextEquiv>
+                    <Unicode>Genua 20. Martii.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="tr_1705756089" custom="readingOrder {index:19;} structure {type:paragraph;}">
+            <Coords points="726,1565 1400,1565 1400,1978 726,1978"/>
+            <TextLine id="tr_1705756089_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:40;conf:0.99;} word_conf {offset:0; length:6;conf:1.00;} word_conf {offset:7; length:4;conf:0.99;} word_conf {offset:12; length:3;conf:1.00;} word_conf {offset:16; length:4;conf:1.00;} word_conf {offset:21; length:10;conf:1.00;} word_conf {offset:32; length:8;conf:0.97;}">
+                <Coords points="765,1614 1381,1628 1390,1577 763,1571"/>
+                <Baseline points="774,1606 806,1604 836,1604 866,1606 896,1606 926,1606 956,1606 986,1606 1016,1606 1046,1606 1076,1606 1106,1608 1136,1608 1166,1608 1196,1610 1226,1610 1256,1612 1286,1612 1316,1612 1346,1612 1376,1614 1396,1614"/>
+                <TextEquiv>
+                    <Unicode>Montag kame ein hier ländisches Fahrzeug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_2" custom="readingOrder {index:1;} line_conf {offset:0; length:38;conf:0.96;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:13;conf:0.96;} word_conf {offset:18; length:6;conf:1.00;} word_conf {offset:25; length:3;conf:1.00;} word_conf {offset:29; length:5;conf:1.00;} word_conf {offset:35; length:3;conf:0.86;}">
+                <Coords points="719,1660 1385,1657 1363,1620 1326,1633 1248,1609 719,1620"/>
+                <Baseline points="728,1646 758,1646 788,1644 818,1644 848,1644 878,1646 908,1644 938,1644 968,1644 998,1644 1028,1644 1058,1644 1088,1646 1118,1646 1148,1646 1178,1646 1208,1646 1238,1648 1268,1648 1298,1648 1328,1648 1358,1648 1388,1648 1390,1646"/>
+                <TextEquiv>
+                    <Unicode>mit verschiedenen Waaren von Porto Ec=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_3" custom="readingOrder {index:2;} line_conf {offset:0; length:42;conf:0.97;} word_conf {offset:0; length:4;conf:1.00;} word_conf {offset:5; length:4;conf:0.91;} word_conf {offset:10; length:3;conf:1.00;} word_conf {offset:14; length:6;conf:1.00;} word_conf {offset:21; length:6;conf:1.00;} word_conf {offset:28; length:10;conf:1.00;} word_conf {offset:39; length:3;conf:1.00;}">
+                <Coords points="721,1690 1390,1701 1390,1655 721,1660"/>
+                <Baseline points="730,1682 760,1682 790,1682 820,1682 850,1682 880,1682 910,1682 940,1684 970,1682 1000,1684 1030,1684 1060,1682 1090,1684 1120,1684 1150,1684 1180,1684 1210,1686 1240,1686 1270,1686 1300,1686 1330,1686 1360,1688 1390,1690 1394,1690"/>
+                <TextEquiv>
+                    <Unicode>cola hier an, dessen Patron berichtet, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_4" custom="readingOrder {index:3;} line_conf {offset:0; length:42;conf:0.98;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:3;conf:1.00;} word_conf {offset:8; length:6;conf:0.94;} word_conf {offset:15; length:2;conf:1.00;} word_conf {offset:18; length:15;conf:0.99;} word_conf {offset:34; length:8;conf:0.99;}">
+                <Coords points="721,1731 1395,1731 1395,1702 1321,1690 721,1690"/>
+                <Baseline points="730,1720 760,1720 790,1720 820,1718 850,1720 880,1720 910,1720 940,1720 970,1720 1000,1720 1030,1720 1060,1720 1090,1722 1120,1722 1150,1722 1180,1722 1210,1722 1240,1722 1270,1722 1300,1724 1330,1724 1360,1724 1390,1724 1398,1724"/>
+                <TextEquiv>
+                    <Unicode>den 10. dieses 6. Neapolitanische Sciabec=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_5" custom="readingOrder {index:4;} line_conf {offset:0; length:41;conf:0.98;} word_conf {offset:0; length:4;conf:1.00;} word_conf {offset:5; length:2;conf:1.00;} word_conf {offset:8; length:7;conf:1.00;} word_conf {offset:16; length:12;conf:1.00;} word_conf {offset:29; length:6;conf:1.00;} word_conf {offset:36; length:5;conf:1.00;}">
+                <Coords points="719,1768 1388,1773 1388,1739 1256,1723 1187,1741 719,1736"/>
+                <Baseline points="728,1758 758,1758 788,1758 818,1760 848,1758 878,1758 908,1758 938,1758 968,1758 998,1760 1028,1758 1058,1760 1088,1760 1118,1760 1148,1760 1178,1760 1208,1760 1238,1760 1268,1760 1298,1762 1328,1762 1358,1762 1388,1764 1392,1762"/>
+                <TextEquiv>
+                    <Unicode>quen zu Longone eingeloffen, welche wider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_6" custom="readingOrder {index:5;} line_conf {offset:0; length:43;conf:0.97;} word_conf {offset:0; length:3;conf:1.00;} word_conf {offset:4; length:10;conf:0.96;} word_conf {offset:15; length:5;conf:1.00;} word_conf {offset:21; length:2;conf:0.99;} word_conf {offset:24; length:8;conf:1.00;} word_conf {offset:33; length:6;conf:0.92;} word_conf {offset:40; length:3;conf:1.00;}">
+                <Coords points="719,1804 1388,1810 1388,1773 1295,1761 1111,1780 719,1768"/>
+                <Baseline points="728,1798 758,1798 788,1796 818,1796 848,1796 878,1798 908,1798 938,1798 968,1798 998,1798 1028,1798 1058,1798 1088,1798 1118,1798 1148,1798 1178,1798 1208,1798 1238,1798 1268,1800 1298,1800 1328,1800 1358,1800 1388,1800 1392,1798"/>
+                <TextEquiv>
+                    <Unicode>die Seeeräuber herum zu kreutzen Befehl ha=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_7" custom="readingOrder {index:6;} line_conf {offset:0; length:40;conf:0.96;} word_conf {offset:0; length:4;conf:0.88;} word_conf {offset:5; length:10;conf:1.00;} word_conf {offset:16; length:4;conf:1.00;} word_conf {offset:21; length:4;conf:1.00;} word_conf {offset:26; length:9;conf:1.00;} word_conf {offset:36; length:4;conf:0.88;}">
+                <Coords points="721,1846 1386,1851 1386,1812 1334,1804 1077,1819 844,1802 812,1826 721,1807"/>
+                <Baseline points="730,1836 760,1836 790,1836 820,1836 850,1834 880,1834 910,1836 940,1836 970,1836 1000,1836 1030,1836 1060,1836 1090,1836 1120,1836 1150,1836 1180,1836 1210,1836 1240,1836 1270,1836 1300,1836 1330,1838 1360,1838 1390,1838 1392,1836"/>
+                <TextEquiv>
+                    <Unicode>ben. Vorgestern kame eine Maonische Tax=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_8" custom="readingOrder {index:7;} line_conf {offset:0; length:37;conf:0.96;} word_conf {offset:0; length:4;conf:1.00;} word_conf {offset:5; length:3;conf:1.00;} word_conf {offset:9; length:5;conf:0.85;} word_conf {offset:15; length:5;conf:1.00;} word_conf {offset:21; length:6;conf:0.92;} word_conf {offset:28; length:4;conf:1.00;} word_conf {offset:33; length:4;conf:1.00;}">
+                <Coords points="719,1883 1393,1883 1393,1851 1304,1842 1106,1863 1086,1842 719,1849"/>
+                <Baseline points="728,1876 736,1876 766,1874 796,1874 826,1874 856,1874 886,1874 916,1874 946,1874 976,1874 1006,1874 1036,1874 1066,1874 1096,1874 1126,1876 1156,1874 1186,1876 1216,1874 1246,1874 1276,1876 1306,1876 1336,1876 1366,1876 1396,1874"/>
+                <TextEquiv>
+                    <Unicode>tana von Tunis durch welche mann ver=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_9" custom="readingOrder {index:8;} line_conf {offset:0; length:40;conf:0.98;} word_conf {offset:0; length:7;conf:1.00;} word_conf {offset:8; length:3;conf:1.00;} word_conf {offset:12; length:2;conf:1.00;} word_conf {offset:15; length:7;conf:1.00;} word_conf {offset:23; length:5;conf:1.00;} word_conf {offset:29; length:5;conf:0.96;} word_conf {offset:35; length:5;conf:1.00;}">
+                <Coords points="721,1925 1398,1925 1380,1883 1224,1875 1197,1895 1115,1875 721,1891"/>
+                <Baseline points="730,1914 760,1912 790,1912 820,1912 850,1912 880,1912 910,1914 940,1914 970,1914 1000,1914 1030,1914 1060,1914 1090,1914 1120,1914 1150,1914 1180,1914 1210,1914 1240,1914 1270,1914 1300,1914 1330,1914 1360,1914 1390,1914 1402,1914"/>
+                <TextEquiv>
+                    <Unicode>nommen, daß in dasigen Hafen keine Raub=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1705756089_tl_10" custom="readingOrder {index:9;} line_conf {offset:0; length:41;conf:0.97;} word_conf {offset:0; length:5;conf:0.86;} word_conf {offset:6; length:12;conf:0.98;} word_conf {offset:19; length:3;conf:1.00;} word_conf {offset:23; length:4;conf:1.00;} word_conf {offset:28; length:3;conf:1.00;} word_conf {offset:32; length:5;conf:1.00;} word_conf {offset:38; length:3;conf:1.00;}">
+                <Coords points="719,1971 1393,1964 1381,1920 1020,1942 979,1915 719,1923"/>
+                <Baseline points="728,1958 738,1960 768,1958 798,1958 828,1956 858,1956 888,1958 918,1956 948,1956 978,1956 1008,1956 1038,1956 1068,1956 1098,1956 1128,1956 1158,1956 1188,1958 1218,1956 1248,1956 1278,1954 1308,1956 1338,1956 1368,1954 1398,1954"/>
+                <TextEquiv>
+                    <Unicode>schif ausgerüstet, wol aber ein Lager für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1705756087" custom="readingOrder {index:20;} structure {type:catch-word;}">
+            <Coords points="1309,1962 1380,1962 1380,2006 1309,2006"/>
+            <TextLine id="tr_1705756087_tl_1" custom="readingOrder {index:0;} line_conf {offset:0; length:3;conf:0.97;} word_conf {offset:0; length:3;conf:1.00;}">
+                <Coords points="1310,2005 1319,2005 1326,2011 1337,2011 1346,2003 1351,2005 1370,2003 1370,1966 1356,1967 1344,1956 1337,1959 1334,1957 1324,1964 1310,1964"/>
+                <Baseline points="1320,1994 1350,1994 1374,1994"/>
+                <TextEquiv>
+                    <Unicode>die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

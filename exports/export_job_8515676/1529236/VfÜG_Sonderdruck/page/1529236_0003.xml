@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.5.0:model_id=51170:date=10_10_2023_23:33</Creator>
+        <Created>2023-08-11T13:26:18.699+02:00</Created>
+        <LastChange>2023-12-04T09:24:42.440+01:00</LastChange>
+        <TranskribusMetadata docId="1529236" pageId="58617575" pageNr="3" tsid="141855026" status="DONE" userId="180289" imgUrl="https://files.transkribus.eu/Get?id=LCKYLOGAPOARMPUQFPWSCRSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AUKRVLTTYBYWFDAGXTVZQBGU" imageId="47384922"/>
+    </Metadata>
+    <Page imageFilename="1529236_0003.jpeg" imageWidth="3233" imageHeight="5213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711389867186" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="562,458 663,458 663,473 562,473"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="562,473 663,473 663,458 562,458"/>
+                <Baseline points="562,473 663,473"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="582,566 582,3921 1752,3921 1752,566"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="600,615 1669,618 1726,603 1726,561 600,573"/>
+                <Baseline points="609,609 665,604 721,603 777,603 833,603 889,603 945,603 1001,603 1057,603 1113,601 1169,598 1225,602 1281,603 1337,602 1393,599 1449,598 1505,598 1561,598 1617,598 1673,596 1730,592"/>
+                <TextEquiv>
+                    <Unicode>ermächtigt wird, aus Anlaß der durch den Kriegs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="605,685 1710,668 1702,608 606,622"/>
+                <Baseline points="614,673 669,663 724,663 779,663 834,663 889,663 944,660 999,657 1054,657 1109,657 1164,657 1219,657 1274,657 1329,656 1384,652 1439,652 1494,652 1549,652 1604,652 1659,652 1714,652"/>
+                <TextEquiv>
+                    <Unicode>zustand verursachten außerordentlichen Verhältnisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="600,727 1638,736 1715,726 1715,682 600,684"/>
+                <Baseline points="609,727 664,722 720,722 775,722 831,722 886,718 942,716 997,716 1053,716 1108,716 1164,716 1219,716 1275,716 1330,715 1386,712 1441,711 1497,711 1552,711 1608,711 1663,711 1719,711"/>
+                <TextEquiv>
+                    <Unicode>die notwendigen Verfügungen auf wirtschaftlichem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="595,800 1723,789 1723,745 1657,726 1105,756 595,735"/>
+                <Baseline points="603,770 659,774 715,776 771,776 827,776 883,776 939,776 995,776 1051,773 1107,771 1164,776 1220,772 1276,772 1332,776 1388,776 1444,774 1500,770 1556,770 1612,770 1668,770 1725,770"/>
+                <TextEquiv>
+                    <Unicode>Gebiete zu treffen, der Regierung zustehenden Be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="599,851 1732,838 1694,780 1638,809 600,796"/>
+                <Baseline points="609,835 665,835 721,835 777,835 834,835 890,832 946,831 1003,835 1059,832 1115,830 1172,830 1228,830 1284,830 1340,829 1397,825 1453,824 1509,825 1566,829 1622,830 1678,828 1735,824"/>
+                <TextEquiv>
+                    <Unicode>fugnisse gehen sowohl auf die Bundesregierung als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="600,909 896,895 978,926 1218,898 1283,928 1558,899 1560,856 602,863"/>
+                <Baseline points="609,894 656,894 704,894 752,894 799,894 847,894 895,894 942,894 990,894 1038,894 1086,894 1133,894 1181,893 1229,890 1276,889 1324,889 1372,889 1419,889 1467,889 1515,887 1563,884"/>
+                <TextEquiv>
+                    <Unicode>auch auf die einzelnen Bundesminister über.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2009" custom="readingOrder {index:6;}">
+                <Coords points="1078,982 1205,990 1206,975 1079,967"/>
+                <Baseline points="1078,982 1205,990"/>
+                <TextEquiv>
+                    <Unicode>§ 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="644,1071 756,1100 1380,1071 1427,1105 1498,1071 1710,1079 1710,1022 644,1052"/>
+                <Baseline points="652,1072 705,1075 758,1072 811,1072 864,1075 917,1077 970,1073 1023,1072 1076,1072 1129,1072 1183,1072 1236,1072 1289,1072 1342,1072 1395,1072 1448,1068 1501,1067 1554,1067 1607,1067 1660,1067 1714,1067"/>
+                <TextEquiv>
+                    <Unicode>(1) Die staatlichen Behörden — mit Ausnahme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="584,1163 1732,1146 1732,1090 1595,1079 778,1105 584,1071"/>
+                <Baseline points="592,1132 649,1132 706,1132 763,1132 820,1132 877,1132 934,1131 992,1127 1049,1129 1106,1132 1163,1132 1220,1132 1277,1130 1334,1126 1392,1126 1449,1126 1506,1126 1563,1126 1620,1126 1677,1125 1735,1121"/>
+                <TextEquiv>
+                    <Unicode>jener der allgemeinen politischen Verwaltung in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="590,1210 1721,1189 1721,1154 1567,1135 1261,1173 590,1154"/>
+                <Baseline points="598,1196 654,1192 710,1191 767,1190 823,1186 879,1185 936,1185 992,1185 1048,1185 1105,1185 1161,1185 1217,1185 1274,1185 1330,1185 1386,1185 1443,1185 1499,1185 1555,1185 1612,1185 1668,1184 1725,1180"/>
+                <TextEquiv>
+                    <Unicode>Ländern (Landesregierungen, Bezirkshauptmann=,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="584,1268 1646,1262 1705,1252 1705,1197 1613,1226 1539,1197 1251,1223 584,1198"/>
+                <Baseline points="592,1250 647,1250 703,1247 759,1246 815,1250 871,1250 926,1250 982,1250 1038,1246 1094,1245 1150,1245 1205,1245 1261,1245 1317,1245 1373,1245 1429,1242 1484,1239 1540,1239 1596,1239 1652,1239 1708,1239"/>
+                <TextEquiv>
+                    <Unicode>schaften) einschließlich der bei diesen Behörden ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="590,1329 1704,1313 1704,1269 1662,1253 1459,1286 590,1269"/>
+                <Baseline points="598,1309 653,1304 709,1304 764,1304 820,1304 875,1304 931,1304 986,1304 1042,1304 1097,1302 1153,1299 1208,1299 1264,1302 1319,1303 1375,1300 1430,1299 1486,1299 1541,1299 1597,1299 1652,1299 1708,1299"/>
+                <TextEquiv>
+                    <Unicode>einigten besonderen Dienstzweige (bau= und forst¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="590,1379 1680,1385 1717,1329 592,1331"/>
+                <Baseline points="598,1369 654,1364 710,1363 766,1362 822,1358 878,1361 934,1362 990,1358 1046,1358 1102,1358 1158,1358 1214,1358 1270,1358 1326,1358 1382,1358 1438,1358 1494,1357 1550,1353 1606,1356 1662,1359 1719,1363"/>
+                <TextEquiv>
+                    <Unicode>technischer Dienst, Gesundheitsdienst. Veterinärdienste,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="584,1444 1710,1444 1710,1374 584,1386"/>
+                <Baseline points="592,1417 648,1422 704,1420 760,1417 816,1417 872,1421 928,1423 984,1423 1040,1419 1096,1419 1153,1423 1209,1418 1265,1420 1321,1423 1377,1423 1433,1420 1489,1417 1545,1417 1601,1417 1657,1416 1714,1412"/>
+                <TextEquiv>
+                    <Unicode>(Archiv= und Bibliotheksdienst, Rechnungsdienst) und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="584,1501 1530,1510 1715,1478 1695,1441 1590,1430 584,1444"/>
+                <Baseline points="592,1482 648,1478 704,1477 761,1477 817,1477 873,1477 930,1477 986,1477 1042,1477 1099,1477 1155,1477 1211,1477 1268,1477 1324,1478 1380,1481 1437,1479 1493,1477 1549,1477 1606,1477 1662,1477 1719,1477"/>
+                <TextEquiv>
+                    <Unicode>der Agrarbehörden erster und zweiter Instanz (Agrar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="590,1555 1501,1555 1555,1584 1715,1551 1715,1500 1664,1490 590,1497"/>
+                <Baseline points="598,1541 654,1541 710,1538 766,1536 822,1536 878,1536 934,1536 990,1536 1046,1536 1102,1536 1158,1536 1214,1540 1270,1539 1326,1536 1382,1536 1438,1536 1494,1535 1550,1531 1606,1534 1662,1535 1719,1531"/>
+                <TextEquiv>
+                    <Unicode>bezirksbehörden und Agrarlandesbehörden) — werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="590,1609 640,1605 666,1627 751,1603 823,1622 845,1606 898,1621 915,1603 943,1624 1080,1622 1080,1562 1039,1549 982,1571 940,1552 858,1570 825,1555 802,1568 590,1557"/>
+                <Baseline points="598,1595 623,1595 649,1595 674,1595 700,1595 725,1595 751,1595 776,1595 802,1595 827,1595 853,1595 878,1595 904,1595 929,1595 955,1595 980,1595 1006,1595 1031,1595 1057,1595 1083,1595"/>
+                <TextEquiv>
+                    <Unicode>Behörden des Bundes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="665,1669 1662,1679 1714,1667 1715,1606 666,1622"/>
+                <Baseline points="673,1655 725,1655 777,1653 829,1649 882,1653 934,1655 986,1655 1039,1655 1091,1654 1143,1650 1196,1649 1248,1649 1300,1649 1352,1652 1405,1654 1457,1650 1509,1649 1562,1649 1614,1649 1666,1647 1719,1644"/>
+                <TextEquiv>
+                    <Unicode>(2) Die Stellung der im Absatz 1 ausgenommenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="590,1737 1704,1717 1685,1664 590,1670"/>
+                <Baseline points="598,1714 653,1714 709,1710 764,1708 820,1708 875,1708 931,1710 986,1714 1042,1709 1097,1708 1153,1709 1208,1713 1264,1711 1319,1708 1375,1708 1430,1705 1486,1703 1541,1703 1597,1706 1652,1706 1708,1703"/>
+                <TextEquiv>
+                    <Unicode>staatlichen Behörden wird durch das Verfassungs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="590,1790 1638,1791 1720,1780 1721,1737 592,1737"/>
+                <Baseline points="598,1778 654,1774 710,1771 767,1768 823,1768 879,1768 936,1768 992,1768 1048,1768 1105,1768 1161,1768 1217,1768 1274,1768 1330,1768 1386,1768 1443,1768 1499,1768 1555,1768 1612,1768 1668,1766 1725,1762"/>
+                <TextEquiv>
+                    <Unicode>gesetz des Bundes über die Organisation der Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="574,1839 1520,1855 1721,1838 1721,1787 574,1797"/>
+                <Baseline points="582,1827 639,1827 696,1827 753,1827 810,1827 867,1827 924,1827 982,1827 1039,1827 1096,1827 1153,1827 1210,1827 1267,1827 1324,1827 1382,1827 1439,1827 1496,1827 1553,1827 1610,1827 1667,1825 1725,1827"/>
+                <TextEquiv>
+                    <Unicode>waltung in den Ländern (Artikel 12, Z. 1 und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="590,1905 1721,1931 1721,1838 590,1842"/>
+                <Baseline points="598,1892 654,1888 710,1886 767,1886 823,1886 879,1889 936,1892 992,1892 1048,1892 1105,1890 1161,1886 1217,1886 1274,1886 1330,1886 1386,1886 1443,1889 1499,1891 1555,1887 1612,1886 1668,1886 1725,1886"/>
+                <TextEquiv>
+                    <Unicode>Artikel 120, Absatz 1 des Bundes=Verfassungsgesetzes)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="589,1995 631,1994 669,1972 681,1973 703,1956 756,1956 758,1903 732,1896 707,1915 681,1911 666,1918 644,1908 622,1920 612,1920 592,1906"/>
+                <Baseline points="598,1951 625,1949 652,1948 679,1946 706,1946 733,1946 760,1946"/>
+                <TextEquiv>
+                    <Unicode>geregelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="649,2006 1715,2026 1715,1952 1644,1930 1476,1984 1302,1924 649,1959"/>
+                <Baseline points="657,2005 710,2005 763,2004 816,2001 869,2000 922,2000 975,2000 1028,2000 1081,2000 1134,2000 1188,2000 1241,2000 1294,2000 1347,2000 1400,2000 1453,2000 1506,2000 1559,2000 1612,2000 1665,2000 1719,2000"/>
+                <TextEquiv>
+                    <Unicode>(3) Die Behörden und Ämter der bisherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:24;}">
+                <Coords points="590,2075 1715,2073 1715,2026 1565,2007 1052,2038 590,2008"/>
+                <Baseline points="598,2064 654,2064 710,2061 766,2059 822,2059 878,2059 934,2060 990,2064 1046,2061 1102,2059 1158,2059 1214,2059 1270,2059 1326,2059 1382,2059 1438,2059 1494,2059 1550,2059 1606,2059 1662,2057 1719,2053"/>
+                <TextEquiv>
+                    <Unicode>autonomen Verwaltung der Länder werden Behörden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:25;}">
+                <Coords points="590,2135 866,2121 1054,2164 1415,2169 1492,2129 1704,2125 1704,2089 1474,2067 1320,2103 1194,2071 590,2075"/>
+                <Baseline points="598,2124 653,2124 709,2120 764,2120 820,2124 875,2120 931,2120 986,2124 1042,2124 1097,2121 1153,2119 1208,2123 1264,2124 1319,2124 1375,2124 1430,2124 1486,2123 1541,2118 1597,2118 1652,2118 1708,2118"/>
+                <TextEquiv>
+                    <Unicode>(Ämter) des Landes im Sinne des Bundes=Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:26;}">
+                <Coords points="583,2202 615,2189 644,2202 686,2191 713,2210 751,2188 762,2199 791,2189 807,2201 854,2204 874,2186 917,2185 918,2147 812,2137 784,2153 730,2132 711,2145 685,2129 584,2135"/>
+                <Baseline points="592,2177 617,2177 642,2177 667,2177 693,2177 718,2177 743,2177 769,2176 794,2175 819,2173 845,2173 870,2174 895,2176 921,2177"/>
+                <TextEquiv>
+                    <Unicode>fassungsgesetzes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:27;}">
+                <Coords points="654,2262 1692,2256 1717,2175 1030,2163 901,2207 654,2201"/>
+                <Baseline points="663,2242 715,2237 768,2236 821,2232 874,2234 927,2237 979,2237 1032,2237 1085,2237 1138,2237 1191,2237 1243,2237 1296,2237 1349,2237 1402,2237 1455,2237 1507,2235 1560,2231 1613,2235 1666,2237 1719,2237"/>
+                <TextEquiv>
+                    <Unicode>(4) Die staatlichen Anstalten gehen an den Bund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:28;}">
+                <Coords points="579,2304 1721,2315 1720,2256 1662,2246 577,2263"/>
+                <Baseline points="587,2291 643,2294 700,2296 757,2296 814,2292 871,2294 928,2295 985,2291 1042,2294 1099,2294 1156,2291 1212,2291 1269,2291 1326,2292 1383,2295 1440,2296 1497,2296 1554,2296 1611,2296 1668,2296 1725,2296"/>
+                <TextEquiv>
+                    <Unicode>über, die Landesanstalten sind Anstalten der Länder;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:29;}">
+                <Coords points="590,2366 1715,2368 1715,2326 1621,2303 1423,2341 1249,2300 1153,2339 1108,2306 590,2307"/>
+                <Baseline points="598,2355 654,2351 710,2350 766,2350 822,2350 878,2350 934,2350 990,2350 1046,2350 1102,2350 1158,2350 1214,2350 1270,2352 1326,2355 1382,2355 1438,2355 1494,2354 1550,2350 1606,2353 1662,2354 1719,2350"/>
+                <TextEquiv>
+                    <Unicode>die Anstalten der Bezirke, Gemeinden und sonstigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:30;}">
+                <Coords points="590,2430 1013,2409 1149,2460 1351,2459 1482,2415 1590,2459 1715,2438 1715,2376 1640,2366 1492,2403 1312,2363 590,2370"/>
+                <Baseline points="598,2415 654,2415 710,2413 766,2409 822,2409 878,2409 934,2409 990,2409 1046,2412 1102,2415 1158,2415 1214,2415 1270,2415 1326,2415 1382,2415 1438,2415 1494,2415 1550,2415 1606,2415 1662,2415 1719,2415"/>
+                <TextEquiv>
+                    <Unicode>öffentlich=rechtlichen Körperschaften sind Anstalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:31;}">
+                <Coords points="574,2484 688,2505 775,2482 872,2517 982,2481 1058,2488 1058,2463 997,2422 810,2440 692,2422 611,2434 574,2418"/>
+                <Baseline points="582,2474 607,2474 632,2474 657,2474 683,2474 708,2474 733,2474 758,2474 784,2474 809,2474 834,2474 859,2474 885,2474 910,2474 935,2474 960,2474 986,2474 1011,2474 1036,2474 1062,2474"/>
+                <TextEquiv>
+                    <Unicode>dieser Körperschaften.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2015" custom="readingOrder {index:32;}">
+                <Coords points="1082,2557 1194,2561 1195,2546 1083,2542"/>
+                <Baseline points="1082,2557 1194,2561"/>
+                <TextEquiv>
+                    <Unicode>§ 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:33;}">
+                <Coords points="656,2670 1217,2645 1536,2683 1704,2658 1704,2577 1146,2609 1030,2568 969,2597 802,2572 654,2600"/>
+                <Baseline points="663,2646 715,2646 767,2645 819,2641 872,2641 924,2642 976,2645 1028,2646 1081,2646 1133,2646 1185,2646 1237,2647 1290,2651 1342,2652 1394,2652 1446,2648 1499,2648 1551,2652 1603,2648 1655,2648 1708,2652"/>
+                <TextEquiv>
+                    <Unicode>(1) Die Angestellten der staatlichen Behörden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:34;}">
+                <Coords points="579,2717 1026,2733 1169,2701 1382,2739 1715,2727 1715,2680 1214,2664 1146,2691 982,2657 904,2691 577,2644"/>
+                <Baseline points="587,2711 643,2708 700,2704 756,2700 813,2700 870,2700 926,2700 983,2700 1039,2704 1096,2704 1153,2700 1209,2704 1266,2706 1322,2706 1379,2706 1436,2708 1492,2711 1549,2711 1605,2711 1662,2711 1719,2711"/>
+                <TextEquiv>
+                    <Unicode>die nach § 8, Absatz 1, Bundesbehörden werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:35;}">
+                <Coords points="574,2775 614,2793 708,2772 1208,2787 1262,2775 1262,2739 1178,2711 1147,2737 1080,2712 956,2739 933,2718 802,2733 780,2715 574,2740"/>
+                <Baseline points="582,2765 616,2765 650,2765 684,2764 718,2762 753,2760 787,2760 821,2760 855,2762 889,2764 924,2765 958,2765 992,2765 1026,2765 1060,2765 1095,2763 1129,2761 1163,2761 1197,2763 1231,2765 1266,2770"/>
+                <TextEquiv>
+                    <Unicode>werden Angestellte des Bundes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:36;}">
+                <Coords points="649,2835 1711,2848 1711,2787 1374,2797 1315,2762 1108,2797 649,2795"/>
+                <Baseline points="657,2824 709,2824 762,2823 815,2819 868,2819 921,2820 974,2824 1026,2824 1079,2824 1132,2824 1185,2824 1238,2824 1291,2824 1344,2822 1396,2820 1449,2823 1502,2824 1555,2824 1608,2824 1661,2824 1714,2824"/>
+                <TextEquiv>
+                    <Unicode>(2) Die Stellung der Angestellten der im § 8,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:37;}">
+                <Coords points="584,2895 1715,2898 1715,2855 1659,2836 584,2841"/>
+                <Baseline points="592,2878 648,2878 704,2880 761,2884 817,2884 873,2884 930,2884 986,2884 1042,2881 1099,2880 1155,2884 1211,2884 1268,2884 1324,2884 1380,2884 1437,2884 1493,2884 1549,2884 1606,2884 1662,2884 1719,2884"/>
+                <TextEquiv>
+                    <Unicode>Absatz 1, ausgenommenen staatlichen Behörden wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:38;}">
+                <Coords points="590,2959 1715,2970 1715,2898 590,2892"/>
+                <Baseline points="598,2943 654,2943 710,2941 766,2938 822,2938 878,2938 934,2938 990,2938 1046,2938 1102,2939 1158,2943 1214,2940 1270,2940 1326,2943 1382,2943 1438,2941 1494,2938 1550,2942 1606,2943 1662,2943 1719,2943"/>
+                <TextEquiv>
+                    <Unicode>im Zusammenhang mit dem Verfassungsgesetz des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:39;}">
+                <Coords points="590,3013 1715,3032 1715,2970 1634,2950 590,2959"/>
+                <Baseline points="598,2997 654,2997 710,2995 766,2991 822,2996 878,2997 934,2998 990,3001 1046,3002 1102,3002 1158,3002 1214,3002 1270,3002 1326,3002 1382,3002 1438,3004 1494,3007 1550,3003 1606,3005 1662,3007 1719,3002"/>
+                <TextEquiv>
+                    <Unicode>Bundes über die Organisation der Verwaltung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:40;}">
+                <Coords points="574,3075 612,3090 692,3065 831,3068 876,3087 939,3068 962,3090 1064,3075 1064,3024 1032,3007 975,3030 882,3018 866,3035 826,3011 574,3020"/>
+                <Baseline points="582,3062 607,3062 633,3062 658,3062 684,3062 709,3062 735,3062 760,3062 786,3062 811,3062 837,3062 862,3062 888,3062 913,3062 939,3062 964,3062 990,3062 1015,3062 1041,3062 1067,3062"/>
+                <TextEquiv>
+                    <Unicode>den Ländern geregelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:41;}">
+                <Coords points="1076,3205 1100,3204 1122,3185 1147,3190 1173,3185 1189,3196 1204,3192 1217,3202 1227,3202 1227,3141 1202,3137 1191,3125 1172,3122 1154,3134 1140,3123 1114,3138 1076,3132"/>
+                <Baseline points="1083,3180 1112,3178 1141,3176 1170,3175 1199,3178 1229,3180"/>
+                <TextEquiv>
+                    <Unicode>§ 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:42;}">
+                <Coords points="638,3259 1715,3272 1715,3214 1611,3196 638,3205"/>
+                <Baseline points="646,3250 699,3254 753,3256 806,3256 860,3259 914,3261 967,3261 1021,3258 1075,3256 1128,3256 1182,3256 1236,3257 1289,3261 1343,3258 1397,3257 1450,3261 1504,3261 1558,3261 1611,3261 1665,3261 1719,3256"/>
+                <TextEquiv>
+                    <Unicode>(1) Die bestehenden staatlichen Polizeibehörden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:43;}">
+                <Coords points="579,3314 1715,3346 1715,3288 1631,3272 1060,3291 815,3259 733,3288 577,3256"/>
+                <Baseline points="587,3310 643,3313 700,3315 756,3315 813,3315 870,3315 926,3315 983,3315 1039,3315 1096,3315 1153,3315 1209,3315 1266,3317 1322,3320 1379,3320 1436,3320 1492,3321 1549,3325 1605,3326 1662,3324 1719,3320"/>
+                <TextEquiv>
+                    <Unicode>werden Bundesbehörden und führen ihre bisherigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:44;}">
+                <Coords points="579,3373 698,3402 867,3376 1248,3408 1354,3387 1354,3333 1284,3352 1166,3326 780,3339 736,3319 638,3346 579,3314"/>
+                <Baseline points="587,3369 625,3371 664,3374 702,3372 741,3369 779,3371 818,3373 856,3374 895,3374 933,3374 972,3374 1011,3374 1049,3374 1088,3374 1126,3374 1165,3374 1203,3374 1242,3374 1280,3374 1319,3374 1358,3374"/>
+                <TextEquiv>
+                    <Unicode>Geschäfte als Bundesgeschäfte fort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:45;}">
+                <Coords points="638,3444 810,3441 924,3486 1042,3437 1552,3460 1715,3440 1715,3390 1583,3403 1482,3368 1256,3405 1090,3389 1049,3422 873,3378 638,3413"/>
+                <Baseline points="646,3434 699,3434 753,3434 806,3434 860,3434 914,3434 967,3434 1021,3434 1075,3435 1128,3439 1182,3439 1236,3439 1289,3439 1343,3439 1397,3439 1450,3439 1504,3439 1558,3439 1611,3439 1665,3439 1719,3439"/>
+                <TextEquiv>
+                    <Unicode>(2) Die bisherige Gendarmerie wird Bundes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:46;}">
+                <Coords points="590,3537 751,3527 762,3537 778,3529 863,3536 863,3438 793,3447 714,3435 695,3447 663,3440 630,3447 618,3435 590,3434"/>
+                <Baseline points="598,3493 624,3493 651,3493 678,3493 705,3493 732,3493 759,3493 786,3493 813,3493 840,3493 867,3493"/>
+                <TextEquiv>
+                    <Unicode>gendarmerie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:47;}">
+                <Coords points="1081,3597 1099,3606 1112,3600 1119,3604 1135,3600 1157,3613 1179,3604 1197,3616 1208,3609 1220,3610 1217,3548 1194,3553 1157,3543 1137,3546 1115,3534 1096,3532 1079,3540"/>
+                <Baseline points="1088,3584 1115,3586 1142,3588 1169,3590 1196,3590 1223,3590"/>
+                <TextEquiv>
+                    <Unicode>§ 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:48;}">
+                <Coords points="654,3673 1717,3685 1715,3620 1602,3600 1466,3631 1332,3594 1233,3626 653,3596"/>
+                <Baseline points="663,3665 715,3662 768,3660 821,3660 874,3660 927,3660 979,3660 1032,3663 1085,3665 1138,3665 1191,3665 1243,3666 1296,3670 1349,3671 1402,3670 1455,3666 1507,3668 1560,3671 1613,3671 1666,3671 1719,3671"/>
+                <TextEquiv>
+                    <Unicode>(1) Die den Ländern als ehemals autonomen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:49;}">
+                <Coords points="584,3734 1727,3736 1715,3696 1402,3683 1313,3714 1264,3670 885,3689 583,3652"/>
+                <Baseline points="592,3719 648,3719 705,3719 762,3719 819,3719 876,3719 933,3719 990,3719 1047,3723 1104,3725 1161,3725 1217,3725 1274,3725 1331,3725 1388,3725 1445,3725 1502,3726 1559,3730 1616,3730 1673,3728 1730,3725"/>
+                <TextEquiv>
+                    <Unicode>Körperschaften gehörenden oder von ihnen ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:50;}">
+                <Coords points="590,3794 1715,3803 1714,3746 1682,3740 589,3744"/>
+                <Baseline points="598,3779 654,3779 710,3779 766,3779 822,3779 878,3779 934,3779 990,3779 1046,3779 1102,3779 1158,3779 1214,3782 1270,3784 1326,3784 1382,3784 1438,3784 1494,3784 1550,3784 1606,3786 1662,3789 1719,3789"/>
+                <TextEquiv>
+                    <Unicode>walteten Vermögenschaften, einschließlich der Fonds</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:51;}">
+                <Coords points="590,3843 1533,3846 1595,3878 1715,3864 1715,3813 589,3797"/>
+                <Baseline points="598,3838 654,3838 710,3838 766,3838 822,3838 878,3840 934,3843 990,3843 1046,3840 1102,3839 1158,3843 1214,3843 1270,3843 1326,3843 1382,3843 1438,3843 1494,3844 1550,3848 1606,3849 1662,3848 1719,3843"/>
+                <TextEquiv>
+                    <Unicode>und Anstalten, gehen in das Vermögen oder in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:52;}">
+                <Coords points="579,3910 751,3903 853,3941 952,3906 1358,3937 1750,3908 1657,3861 923,3874 579,3838"/>
+                <Baseline points="587,3897 645,3897 703,3897 761,3897 820,3897 878,3901 936,3903 994,3903 1053,3903 1111,3903 1169,3904 1227,3908 1286,3908 1344,3908 1402,3908 1460,3908 1519,3908 1577,3908 1635,3908 1693,3905 1752,3908"/>
+                <TextEquiv>
+                    <Unicode>die Verwaltung der Länder im Sinne des Bundes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="1778,563 1778,3927 2938,3927 2938,563"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1781,606 2121,627 2217,592 2656,614 2806,583 2855,611 2912,606 2912,526 2389,549 2263,520 2172,560 1994,514 1781,549"/>
+                <Baseline points="1789,592 1845,596 1901,598 1958,598 2014,598 2070,595 2127,592 2183,592 2239,592 2296,592 2352,592 2408,592 2465,590 2521,588 2577,591 2634,592 2690,592 2746,592 2803,589 2859,587 2916,587"/>
+                <TextEquiv>
+                    <Unicode>Verfassungsgesetzes über; hinsichtlich der von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1769,675 2712,644 2846,675 2912,662 2914,617 1771,615"/>
+                <Baseline points="1778,657 1834,657 1891,657 1948,657 2005,653 2062,652 2119,652 2176,652 2233,652 2290,650 2347,646 2403,646 2460,646 2517,646 2574,646 2631,644 2688,642 2745,645 2802,646 2859,646 2916,646"/>
+                <TextEquiv>
+                    <Unicode>den Ländern verwalteten Schulfonds verbleibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1781,720 2858,732 2918,721 2918,670 1781,678"/>
+                <Baseline points="1789,711 1845,711 1902,711 1958,711 2015,711 2072,711 2128,711 2185,711 2241,708 2298,706 2355,706 2411,706 2468,704 2524,701 2581,705 2638,706 2694,706 2751,706 2807,706 2864,706 2921,706"/>
+                <TextEquiv>
+                    <Unicode>es jedoch bis zur Erlassung des Verfassungsgesetzes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1787,784 2918,787 2918,727 2880,719 1787,723"/>
+                <Baseline points="1795,776 1851,768 1907,767 1963,769 2020,766 2076,765 2132,765 2189,765 2245,765 2301,765 2358,765 2414,765 2470,763 2526,761 2583,764 2639,765 2695,765 2752,765 2808,762 2864,760 2921,760"/>
+                <TextEquiv>
+                    <Unicode>des Bundes über den Wirkungsbereich des Bundes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1769,837 2919,834 2919,791 2870,772 1769,791"/>
+                <Baseline points="1778,824 1835,827 1892,824 1949,824 2006,824 2063,824 2120,824 2178,824 2235,821 2292,819 2349,819 2406,819 2463,819 2520,819 2578,819 2635,819 2692,819 2749,819 2806,819 2863,818 2921,814"/>
+                <TextEquiv>
+                    <Unicode>und der Länder auf dem Gebiet des Schul=, Er¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1781,905 2903,896 2912,837 1781,838"/>
+                <Baseline points="1789,884 1845,884 1901,881 1958,879 2014,883 2070,884 2127,883 2183,878 2239,878 2296,878 2352,878 2408,878 2465,878 2521,877 2577,874 2634,876 2690,878 2746,878 2803,878 2859,877 2916,873"/>
+                <TextEquiv>
+                    <Unicode>ziehungs= und Volksbildungswesens (Artikel 14 des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1769,960 2908,952 2908,908 2820,891 1769,907"/>
+                <Baseline points="1778,943 1834,940 1891,938 1947,938 2004,938 2061,938 2117,938 2174,938 2231,938 2287,938 2344,938 2401,938 2457,936 2514,932 2571,932 2627,932 2684,933 2741,937 2797,934 2854,932 2911,932"/>
+                <TextEquiv>
+                    <Unicode>Bundes=Verfassungsgesetzes) beim bisherigen Zustand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1841,1009 2396,1022 2466,991 2903,1022 2903,953 2501,949 2444,981 2367,949 1991,953 1841,984"/>
+                <Baseline points="1849,997 1901,999 1954,997 2007,997 2060,997 2113,997 2165,997 2218,997 2271,997 2324,997 2377,994 2429,991 2482,991 2535,991 2588,991 2641,991 2693,991 2746,991 2799,991 2852,989 2905,986"/>
+                <TextEquiv>
+                    <Unicode>(2) Alles übrige staatliche Vermögen ist Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1787,1068 2912,1054 2871,1007 2329,1006 2272,1042 2226,1010 1787,1019"/>
+                <Baseline points="1795,1056 1851,1056 1907,1056 1963,1055 2019,1051 2075,1054 2131,1056 2187,1056 2243,1053 2299,1051 2355,1051 2411,1051 2467,1051 2523,1051 2579,1051 2635,1051 2691,1051 2747,1051 2803,1051 2859,1051 2916,1051"/>
+                <TextEquiv>
+                    <Unicode>mögen des Bundes; die endgültige Auseinander¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1785,1134 2912,1122 2912,1080 2842,1061 2797,1089 2676,1061 1787,1067"/>
+                <Baseline points="1795,1115 1851,1115 1907,1115 1963,1114 2019,1110 2075,1110 2131,1110 2187,1110 2243,1110 2299,1108 2355,1105 2411,1109 2467,1108 2523,1105 2579,1105 2635,1105 2691,1105 2747,1105 2803,1105 2859,1105 2916,1105"/>
+                <TextEquiv>
+                    <Unicode>setzung über das staatliche Vermögen wird im Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1781,1191 2909,1176 2889,1128 2720,1114 1781,1134"/>
+                <Baseline points="1789,1169 1845,1174 1901,1172 1957,1169 2013,1169 2069,1173 2125,1173 2181,1169 2237,1169 2293,1169 2350,1169 2406,1165 2462,1164 2518,1164 2574,1164 2630,1164 2686,1164 2742,1164 2798,1164 2854,1163 2911,1159"/>
+                <TextEquiv>
+                    <Unicode>fassungsgesetz des Bundes über die finanzielle Aus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1785,1246 2912,1243 2886,1178 1787,1191"/>
+                <Baseline points="1795,1234 1851,1234 1907,1234 1963,1234 2019,1234 2075,1234 2131,1233 2187,1229 2243,1229 2299,1229 2355,1229 2411,1229 2467,1229 2523,1229 2579,1229 2635,1226 2691,1224 2747,1228 2803,1229 2859,1227 2916,1223"/>
+                <TextEquiv>
+                    <Unicode>einandersetzung zwischen Bund und Ländern geregelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1780,1395 2896,1396 2877,1332 2677,1344 2616,1313 2516,1348 1781,1338"/>
+                <Baseline points="1789,1380 1844,1385 1900,1385 1955,1383 2011,1380 2066,1380 2122,1380 2177,1380 2233,1380 2288,1377 2344,1374 2400,1374 2455,1377 2511,1379 2566,1375 2622,1374 2677,1375 2733,1380 2788,1380 2844,1378 2900,1374"/>
+                <TextEquiv>
+                    <Unicode>II. Zu einzelnen Artikeln des Bundes=Verfassungs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="2256,1459 2274,1462 2294,1455 2313,1468 2335,1447 2371,1463 2390,1452 2444,1450 2446,1396 2427,1402 2419,1396 2370,1401 2339,1392 2329,1401 2317,1390 2285,1404 2258,1398"/>
+                <Baseline points="2264,1444 2290,1444 2316,1442 2342,1440 2368,1439 2394,1439 2420,1439 2447,1439"/>
+                <TextEquiv>
+                    <Unicode>gesetzes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2003" custom="readingOrder {index:14;}">
+                <Coords points="2268,1533 2414,1525 2413,1510 2267,1518"/>
+                <Baseline points="2268,1533 2414,1525"/>
+                <TextEquiv>
+                    <Unicode>§ 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="2159,1637 2185,1648 2212,1634 2243,1648 2303,1624 2367,1625 2383,1640 2414,1624 2450,1640 2514,1632 2516,1577 2479,1570 2452,1581 2437,1570 2405,1586 2389,1571 2355,1570 2322,1586 2296,1570 2210,1567 2160,1581"/>
+                <Baseline points="2167,1622 2192,1622 2217,1621 2242,1619 2267,1617 2292,1617 2317,1617 2342,1617 2367,1616 2392,1614 2417,1612 2442,1611 2467,1613 2492,1615 2517,1617"/>
+                <TextEquiv>
+                    <Unicode>Zu Artikel 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="1847,1713 2912,1711 2890,1628 2463,1631 2412,1662 2154,1632 2102,1666 1847,1634"/>
+                <Baseline points="1854,1698 1907,1698 1960,1697 2013,1693 2066,1692 2119,1693 2172,1697 2225,1695 2278,1691 2331,1688 2385,1689 2438,1692 2491,1692 2544,1692 2597,1692 2650,1692 2703,1690 2756,1687 2809,1690 2862,1692 2916,1692"/>
+                <TextEquiv>
+                    <Unicode>(1) Das Burgenland wird als selbständiges und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="1781,1775 2918,1769 2918,1724 2867,1710 2591,1730 2533,1702 2449,1734 2371,1702 2137,1727 2039,1698 1947,1730 1781,1704"/>
+                <Baseline points="1789,1762 1845,1759 1902,1757 1958,1757 2015,1753 2072,1752 2128,1753 2185,1756 2241,1754 2298,1752 2355,1752 2411,1752 2468,1752 2524,1752 2581,1752 2638,1752 2694,1752 2751,1752 2807,1752 2864,1752 2921,1752"/>
+                <TextEquiv>
+                    <Unicode>gleichberechtigtes Land in den Bund aufgenommen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="1787,1835 2918,1826 2918,1783 2855,1761 1787,1777"/>
+                <Baseline points="1795,1822 1851,1818 1907,1814 1963,1811 2020,1811 2076,1811 2132,1811 2189,1811 2245,1811 2301,1811 2358,1811 2414,1811 2470,1811 2526,1811 2583,1811 2639,1811 2695,1811 2752,1811 2808,1811 2864,1811 2921,1811"/>
+                <TextEquiv>
+                    <Unicode>sobald es seinen Willen zum Ausdruck gebracht hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="1847,1880 2912,1892 2914,1838 1848,1834"/>
+                <Baseline points="1854,1870 1907,1873 1960,1870 2013,1870 2066,1870 2119,1870 2172,1870 2225,1870 2278,1870 2331,1870 2385,1870 2438,1870 2491,1870 2544,1870 2597,1870 2650,1870 2703,1870 2756,1870 2809,1870 2862,1868 2916,1865"/>
+                <TextEquiv>
+                    <Unicode>(2) Die näheren Bestimmungen über die Stellung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="1781,1949 2912,1946 2912,1896 2778,1879 1781,1892"/>
+                <Baseline points="1789,1929 1845,1929 1901,1929 1958,1929 2014,1929 2070,1929 2127,1929 2183,1929 2239,1926 2296,1926 2352,1929 2408,1929 2465,1927 2521,1925 2577,1928 2634,1929 2690,1928 2746,1924 2803,1927 2859,1928 2916,1924"/>
+                <TextEquiv>
+                    <Unicode>des Burgenlandes als selbständiges und gleichberech¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="1787,2003 2924,2010 2924,1949 2820,1937 2274,1968 1787,1943"/>
+                <Baseline points="1795,1994 1851,1991 1908,1989 1964,1989 2021,1989 2078,1989 2134,1989 2191,1989 2247,1989 2304,1989 2361,1989 2417,1989 2474,1989 2530,1989 2587,1989 2644,1989 2700,1989 2757,1989 2813,1989 2870,1989 2927,1989"/>
+                <TextEquiv>
+                    <Unicode>tigtes Land im Bund werden durch ein besonderes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="1781,2092 1885,2061 2042,2094 2217,2096 2290,2067 2444,2099 2615,2064 2615,2007 1781,2010"/>
+                <Baseline points="1789,2048 1830,2051 1872,2053 1913,2053 1955,2053 1996,2053 2038,2053 2079,2053 2121,2053 2162,2050 2204,2048 2245,2048 2287,2048 2328,2048 2370,2048 2411,2048 2453,2048 2494,2048 2536,2048 2577,2048 2619,2048"/>
+                <TextEquiv>
+                    <Unicode>Verfassungsgesetz des Bundes festgesetzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="2282,2185 2307,2188 2316,2182 2348,2207 2363,2211 2406,2198 2415,2207 2427,2207 2427,2089 2405,2080 2398,2087 2389,2081 2380,2089 2357,2078 2345,2084 2322,2078 2297,2094 2282,2094"/>
+                <Baseline points="2291,2172 2319,2170 2347,2168 2375,2167 2403,2170 2431,2172"/>
+                <TextEquiv>
+                    <Unicode>§ 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:24;}">
+                <Coords points="2169,2271 2198,2278 2252,2256 2345,2255 2382,2271 2424,2258 2510,2266 2524,2262 2524,2198 2492,2199 2475,2214 2449,2201 2320,2212 2275,2199 2217,2217 2195,2207 2169,2214"/>
+                <Baseline points="2177,2253 2202,2251 2227,2250 2252,2248 2277,2248 2302,2248 2327,2248 2352,2248 2377,2248 2402,2248 2427,2248 2452,2248 2477,2248 2502,2248 2528,2253"/>
+                <TextEquiv>
+                    <Unicode>Zu Artikel 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:25;}">
+                <Coords points="1835,2348 2880,2348 2924,2328 2924,2262 2739,2290 2634,2258 1835,2278"/>
+                <Baseline points="1843,2334 1897,2328 1951,2328 2005,2328 2059,2328 2114,2328 2168,2328 2222,2328 2276,2328 2330,2328 2385,2327 2439,2323 2493,2326 2547,2328 2601,2328 2656,2328 2710,2328 2764,2328 2818,2328 2872,2326 2927,2323"/>
+                <TextEquiv>
+                    <Unicode>(1) Beschränkungen oder Erschwerungen des Ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:26;}">
+                <Coords points="1769,2398 2928,2399 2912,2338 2701,2335 2600,2377 2377,2335 2306,2370 2099,2344 1930,2379 1769,2338"/>
+                <Baseline points="1778,2388 1835,2388 1893,2388 1951,2388 2008,2388 2066,2388 2124,2388 2181,2388 2239,2388 2297,2388 2355,2388 2412,2388 2470,2388 2528,2388 2585,2388 2643,2388 2701,2388 2758,2388 2816,2388 2874,2388 2932,2388"/>
+                <TextEquiv>
+                    <Unicode>kehrs von Personen oder Waren zwischen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:27;}">
+                <Coords points="1769,2454 2924,2465 2924,2419 2828,2408 1769,2405"/>
+                <Baseline points="1778,2447 1835,2449 1892,2451 1950,2447 2007,2447 2065,2447 2122,2447 2180,2447 2237,2447 2295,2447 2352,2447 2409,2447 2467,2447 2524,2447 2582,2443 2639,2444 2697,2447 2754,2447 2812,2447 2869,2446 2927,2442"/>
+                <TextEquiv>
+                    <Unicode>Ländern und innerhalb der Länder sind nur zu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:28;}">
+                <Coords points="1769,2513 2928,2532 2928,2476 2798,2460 1769,2459"/>
+                <Baseline points="1778,2506 1835,2510 1893,2512 1951,2511 2008,2507 2066,2506 2124,2506 2181,2506 2239,2506 2297,2506 2355,2506 2412,2506 2470,2509 2528,2512 2585,2512 2643,2508 2701,2508 2758,2511 2816,2507 2874,2506 2932,2506"/>
+                <TextEquiv>
+                    <Unicode>lässig, insolange die im Artikel 10, Z. 15, erwähnten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:29;}">
+                <Coords points="1787,2577 2889,2590 2918,2527 1787,2538"/>
+                <Baseline points="1795,2571 1851,2567 1907,2566 1963,2566 2020,2566 2076,2566 2132,2566 2189,2566 2245,2566 2301,2566 2358,2566 2414,2566 2470,2566 2526,2566 2583,2566 2639,2569 2695,2570 2752,2566 2808,2566 2864,2566 2921,2566"/>
+                <TextEquiv>
+                    <Unicode>außerordentlichen Verhältnisse fortdauern (§ 17 dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:30;}">
+                <Coords points="1777,2648 1991,2672 2332,2632 2462,2673 2638,2637 2758,2669 2924,2635 2924,2584 1777,2593"/>
+                <Baseline points="1784,2625 1841,2625 1898,2625 1955,2626 2012,2629 2069,2630 2126,2630 2184,2630 2241,2630 2298,2628 2355,2625 2412,2625 2469,2625 2526,2626 2584,2629 2641,2630 2698,2628 2755,2625 2812,2629 2869,2628 2927,2630"/>
+                <TextEquiv>
+                    <Unicode>Gesetzes) und können nur von Bundes wegen verfügt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:31;}">
+                <Coords points="1769,2726 1783,2728 1800,2720 1812,2727 1819,2720 1832,2728 1870,2711 1890,2715 1921,2696 1947,2702 1947,2648 1921,2645 1902,2654 1871,2640 1832,2657 1816,2645 1800,2651 1769,2647"/>
+                <Baseline points="1778,2684 1806,2684 1835,2684 1864,2684 1893,2684 1922,2684 1951,2684"/>
+                <TextEquiv>
+                    <Unicode>werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:32;}">
+                <Coords points="1841,2766 2110,2781 2173,2743 2565,2784 2794,2744 2912,2775 2912,2692 2683,2727 2507,2658 2247,2715 2167,2670 1841,2695"/>
+                <Baseline points="1849,2749 1902,2743 1955,2743 2009,2743 2062,2743 2115,2743 2169,2743 2222,2743 2275,2743 2329,2743 2382,2743 2435,2743 2489,2743 2542,2743 2595,2743 2649,2743 2702,2743 2755,2743 2809,2743 2862,2741 2916,2738"/>
+                <TextEquiv>
+                    <Unicode>(2) Bestehende Verkehrsbeschränkungen, die nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:33;}">
+                <Coords points="1769,2816 2919,2814 2919,2763 2813,2752 2743,2794 2440,2756 2402,2785 1941,2756 1893,2790 1769,2737"/>
+                <Baseline points="1778,2803 1835,2803 1892,2803 1949,2803 2006,2803 2063,2803 2120,2803 2178,2803 2235,2803 2292,2803 2349,2803 2406,2803 2463,2803 2520,2803 2578,2803 2635,2803 2692,2803 2749,2803 2806,2803 2863,2801 2921,2797"/>
+                <TextEquiv>
+                    <Unicode>vom Staat ausgegangen sind, treten, soferne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_34" custom="readingOrder {index:34;}">
+                <Coords points="1781,2880 2928,2871 2900,2828 2744,2819 2245,2846 1781,2820"/>
+                <Baseline points="1789,2862 1846,2862 1903,2862 1960,2862 2017,2862 2074,2862 2131,2862 2189,2862 2246,2862 2303,2862 2360,2862 2417,2862 2474,2862 2531,2862 2589,2862 2646,2862 2703,2862 2760,2862 2817,2862 2874,2862 2932,2862"/>
+                <TextEquiv>
+                    <Unicode>sie nicht vom Staat genehmigt wurden oder vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_35" custom="readingOrder {index:35;}">
+                <Coords points="1769,2928 2934,2959 2934,2893 2814,2874 2666,2906 2589,2874 1921,2908 1769,2881"/>
+                <Baseline points="1778,2921 1836,2921 1894,2921 1952,2921 2010,2921 2068,2921 2126,2921 2184,2921 2242,2921 2300,2921 2358,2920 2416,2917 2474,2919 2532,2921 2590,2921 2648,2921 2706,2924 2764,2926 2822,2922 2880,2921 2938,2927"/>
+                <TextEquiv>
+                    <Unicode>Bund nachträglich genehmigt werden, spätestens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_36" custom="readingOrder {index:36;}">
+                <Coords points="1781,3021 1883,2989 2277,3023 2475,2995 2545,3021 2545,2956 2488,2931 2390,2956 2326,2937 2253,2966 2223,2940 2110,2957 2084,2932 2004,2932 1966,2957 1893,2937 1863,2957 1781,2930"/>
+                <Baseline points="1789,2981 1827,2983 1865,2986 1903,2986 1941,2986 1979,2986 2017,2986 2055,2986 2093,2986 2131,2986 2169,2986 2207,2986 2245,2986 2283,2985 2321,2983 2359,2981 2397,2984 2435,2986 2473,2986 2511,2986 2549,2986"/>
+                <TextEquiv>
+                    <Unicode>mit 30. Juni 1921 außer Kraft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_37" custom="readingOrder {index:37;}">
+                <Coords points="2282,3128 2325,3144 2339,3139 2349,3147 2368,3137 2421,3139 2421,3016 2406,3016 2393,3026 2383,3018 2371,3029 2360,3024 2338,3037 2319,3029 2298,3035 2282,3027"/>
+                <Baseline points="2291,3105 2317,3105 2344,3105 2371,3105 2398,3105 2425,3105"/>
+                <TextEquiv>
+                    <Unicode>§ 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_38" custom="readingOrder {index:38;}">
+                <Coords points="2175,3202 2258,3189 2349,3199 2363,3189 2438,3206 2492,3199 2524,3220 2524,3147 2494,3134 2368,3135 2349,3147 2290,3128 2246,3145 2175,3119"/>
+                <Baseline points="2183,3191 2209,3186 2236,3184 2262,3182 2289,3180 2315,3180 2342,3180 2368,3180 2395,3180 2421,3180 2448,3180 2474,3182 2501,3184 2528,3186"/>
+                <TextEquiv>
+                    <Unicode>Zu Artikel 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_39" custom="readingOrder {index:39;}">
+                <Coords points="1835,3272 2860,3290 2912,3271 2912,3206 1835,3218"/>
+                <Baseline points="1843,3261 1896,3261 1950,3261 2003,3261 2057,3261 2111,3261 2164,3261 2218,3261 2272,3261 2325,3261 2379,3261 2433,3261 2486,3261 2540,3264 2594,3265 2647,3261 2701,3264 2755,3266 2808,3266 2862,3263 2916,3261"/>
+                <TextEquiv>
+                    <Unicode>(1) Jeder Staatsbürger der Republik ist Landes¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_40" custom="readingOrder {index:40;}">
+                <Coords points="1781,3335 2418,3320 2689,3371 2912,3339 2912,3269 2570,3306 2456,3274 2301,3301 1781,3274"/>
+                <Baseline points="1789,3320 1845,3320 1901,3320 1958,3320 2014,3320 2070,3320 2127,3321 2183,3325 2239,3323 2296,3320 2352,3320 2408,3320 2465,3322 2521,3326 2577,3326 2634,3326 2690,3326 2746,3326 2803,3326 2859,3326 2916,3326"/>
+                <TextEquiv>
+                    <Unicode>bürger des Landes, zu dem seine Heimatgemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_41" custom="readingOrder {index:41;}">
+                <Coords points="1769,3427 1979,3387 2078,3409 2234,3381 2316,3408 2562,3389 2562,3358 2479,3333 1769,3345"/>
+                <Baseline points="1778,3385 1817,3383 1856,3380 1896,3380 1935,3380 1975,3380 2014,3380 2053,3380 2093,3380 2132,3380 2172,3380 2211,3380 2250,3380 2290,3380 2329,3380 2369,3380 2408,3380 2447,3380 2487,3380 2526,3382 2566,3385"/>
+                <TextEquiv>
+                    <Unicode>gehört, und zugleich Bundesbürger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_42" custom="readingOrder {index:42;}">
+                <Coords points="1831,3444 1979,3481 2137,3440 2387,3476 2511,3443 2893,3466 2908,3378 1831,3412"/>
+                <Baseline points="1838,3439 1891,3439 1945,3437 1998,3434 2052,3437 2106,3439 2159,3439 2213,3439 2267,3439 2320,3439 2374,3439 2428,3439 2481,3439 2535,3442 2589,3443 2642,3439 2696,3439 2750,3439 2803,3439 2857,3442 2911,3444"/>
+                <TextEquiv>
+                    <Unicode>(2) Personen, die österreichische Staatsbürger sind,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_43" custom="readingOrder {index:43;}">
+                <Coords points="1777,3504 2908,3513 2906,3460 2809,3450 2376,3483 2138,3440 1991,3489 1775,3429"/>
+                <Baseline points="1784,3498 1840,3495 1896,3495 1953,3498 2009,3498 2065,3496 2122,3494 2178,3497 2234,3498 2291,3498 2347,3498 2403,3498 2460,3498 2516,3498 2572,3502 2629,3504 2685,3503 2741,3499 2798,3498 2854,3498 2911,3498"/>
+                <TextEquiv>
+                    <Unicode>ohne in einer Gemeinde der Republik heimat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_44" custom="readingOrder {index:44;}">
+                <Coords points="1769,3565 2912,3585 2912,3523 2830,3508 2272,3511 2163,3543 2099,3507 1908,3497 1855,3529 1769,3501"/>
+                <Baseline points="1778,3552 1834,3555 1891,3557 1948,3557 2005,3557 2062,3557 2119,3557 2176,3557 2233,3554 2290,3554 2347,3557 2403,3557 2460,3557 2517,3557 2574,3557 2631,3560 2688,3562 2745,3557 2802,3557 2859,3557 2916,3557"/>
+                <TextEquiv>
+                    <Unicode>berechtigt zu sein, werden Bundesbürger. In welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_45" custom="readingOrder {index:45;}">
+                <Coords points="1781,3620 2912,3625 2912,3585 2838,3567 2651,3593 1781,3571"/>
+                <Baseline points="1789,3611 1845,3611 1901,3613 1958,3616 2014,3612 2070,3614 2127,3616 2183,3612 2239,3614 2296,3617 2352,3617 2408,3617 2465,3617 2521,3617 2577,3617 2634,3617 2690,3617 2746,3617 2803,3617 2859,3617 2916,3617"/>
+                <TextEquiv>
+                    <Unicode>Gemeinde sie das Heimatrecht und damit die Vor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_46" custom="readingOrder {index:46;}">
+                <Coords points="1769,3686 2912,3702 2912,3657 2858,3635 2689,3664 2574,3625 2185,3626 2124,3660 2064,3629 2014,3661 1769,3623"/>
+                <Baseline points="1778,3671 1834,3674 1891,3674 1948,3671 2005,3671 2062,3671 2119,3672 2176,3676 2233,3673 2290,3673 2347,3676 2403,3676 2460,3676 2517,3676 2574,3676 2631,3676 2688,3676 2745,3676 2802,3676 2859,3678 2916,3676"/>
+                <TextEquiv>
+                    <Unicode>aussetzung für eine Landesbürgerschaft erlangen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_47" custom="readingOrder {index:47;}">
+                <Coords points="1781,3747 2877,3757 2902,3701 1780,3687"/>
+                <Baseline points="1789,3725 1844,3725 1900,3727 1956,3730 2012,3726 2068,3725 2123,3726 2179,3729 2235,3733 2291,3735 2347,3735 2402,3735 2458,3735 2514,3735 2570,3735 2626,3735 2681,3735 2737,3735 2793,3735 2849,3735 2905,3735"/>
+                <TextEquiv>
+                    <Unicode>wird durch Bundesgesetz geregelt; bezüglich der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_48" custom="readingOrder {index:48;}">
+                <Coords points="1787,3808 2912,3807 2896,3756 1787,3741"/>
+                <Baseline points="1795,3795 1851,3790 1907,3789 1963,3789 2019,3789 2075,3793 2131,3793 2187,3789 2243,3789 2299,3789 2355,3789 2411,3789 2467,3792 2523,3794 2579,3790 2635,3792 2691,3794 2747,3790 2803,3793 2859,3793 2916,3789"/>
+                <TextEquiv>
+                    <Unicode>Personen, die auf Grund des Staatsvertrages von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_49" custom="readingOrder {index:49;}">
+                <Coords points="1781,3854 2912,3867 2912,3823 2790,3804 2434,3839 2357,3804 1781,3798"/>
+                <Baseline points="1789,3843 1845,3847 1901,3847 1958,3844 2014,3848 2070,3849 2127,3849 2183,3849 2239,3849 2296,3850 2352,3854 2408,3854 2465,3854 2521,3854 2577,3854 2634,3852 2690,3850 2746,3853 2803,3854 2859,3853 2916,3849"/>
+                <TextEquiv>
+                    <Unicode>Saint=Germain durch Option oder auf Grund einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_50" custom="readingOrder {index:50;}">
+                <Coords points="1781,3922 2300,3954 2596,3913 2912,3928 2912,3880 2846,3868 1781,3868"/>
+                <Baseline points="1789,3908 1845,3908 1901,3908 1958,3908 2014,3908 2070,3910 2127,3913 2183,3913 2239,3913 2296,3913 2352,3913 2408,3913 2465,3913 2521,3913 2577,3913 2634,3913 2690,3913 2746,3913 2803,3913 2859,3913 2916,3913"/>
+                <TextEquiv>
+                    <Unicode>bloßen Erklärung gemäß § 2 des Gesetzes vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
