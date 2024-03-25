@@ -1,9 +1,7 @@
 import glob
 import os
-import shutil
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import extract_fulltext
 from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
 
 
@@ -17,7 +15,7 @@ COL_URIS = set()
 
 
 files = glob.glob("exports/*/*/*/mets.xml")
-for x in files[:3]:
+for x in tqdm(files):
     heads, _ = os.path.split(x)
     # document collection
     cur_col_id = x.split("/")[2]
@@ -26,7 +24,6 @@ for x in files[:3]:
     cur_col_title = cur_col_id.replace("-", " ").replace("_", " ")
     g.add((cur_col_uri, RDF.type, ACDH["Collection"]))
     g.add((cur_col_uri, ACDH["isPartOf"], TOP_COL_URI))
-    g.add((cur_col_uri, ACDH["hasTitle"], Literal(cur_col_title, lang="und")))
 
     # mets file
     mets = URIRef(f"{cur_col_uri}/mets.xml")
@@ -41,6 +38,10 @@ for x in files[:3]:
         )
     )
 
+    # parse mets file to extract image-uris and document title
+    doc = TeiReader(x)
+    cur_col_title = doc.tree.xpath(".//title/text()")[0]
+    g.add((cur_col_uri, ACDH["hasTitle"], Literal(cur_col_title, lang="und")))
     # page folder
     page_folder_uri = URIRef(f"{cur_col_uri}/page")
     g.add((page_folder_uri, RDF.type, ACDH["Collection"]))
