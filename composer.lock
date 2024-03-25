@@ -1,0 +1,1647 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "0c45f3c5d63b849bc7955d0928a0dce4",
+    "packages": [
+        {
+            "name": "acdh-oeaw/arche-assets",
+            "version": "3.14.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/acdh-oeaw/arche-assets.git",
+                "reference": "8131da29ce7a3a31f8d773fd9cfeb7b281cf2d05"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/acdh-oeaw/arche-assets/zipball/8131da29ce7a3a31f8d773fd9cfeb7b281cf2d05",
+                "reference": "8131da29ce7a3a31f8d773fd9cfeb7b281cf2d05",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">= 7.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "acdhOeaw\\": "src/acdhOeaw"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "mzoltak@oeaw.ac.at"
+                }
+            ],
+            "description": "Set of static assets used (mainly) for ARCHE data preprocessing",
+            "homepage": "https://github.com/acdh-oeaw/arche-assets",
+            "support": {
+                "issues": "https://github.com/acdh-oeaw/arche-assets/issues",
+                "source": "https://github.com/acdh-oeaw/arche-assets/tree/3.14.1"
+            },
+            "time": "2024-03-11T10:00:33+00:00"
+        },
+        {
+            "name": "acdh-oeaw/arche-ingest",
+            "version": "1.4.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/acdh-oeaw/arche-ingest.git",
+                "reference": "8220509d80aa8444f441356d2f281bbc2347d7b1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/acdh-oeaw/arche-ingest/zipball/8220509d80aa8444f441356d2f281bbc2347d7b1",
+                "reference": "8220509d80aa8444f441356d2f281bbc2347d7b1",
+                "shasum": ""
+            },
+            "require": {
+                "acdh-oeaw/arche-lib-ingest": "^4",
+                "kbsali/redmine-api": "^2.2",
+                "zozlak/argparse": "^1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "*"
+            },
+            "bin": [
+                "bin/arche-import-metadata",
+                "bin/arche-import-binary",
+                "bin/arche-delete-resource",
+                "bin/arche-delete-triples",
+                "bin/arche-update-redmine"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "mzoltak@oeaw.ac.at"
+                }
+            ],
+            "description": "A set of sample ARCHE ingestion scripts",
+            "homepage": "https://github.com/acdh-oeaw/arche-ingest",
+            "support": {
+                "issues": "https://github.com/acdh-oeaw/arche-ingest/issues",
+                "source": "https://github.com/acdh-oeaw/arche-ingest/tree/1.4.6"
+            },
+            "time": "2024-02-22T10:05:06+00:00"
+        },
+        {
+            "name": "acdh-oeaw/arche-lib",
+            "version": "6.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/acdh-oeaw/arche-lib.git",
+                "reference": "c524bd86fe73c7df777b85bafde9b27d3bb2bb1f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/acdh-oeaw/arche-lib/zipball/c524bd86fe73c7df777b85bafde9b27d3bb2bb1f",
+                "reference": "c524bd86fe73c7df777b85bafde9b27d3bb2bb1f",
+                "shasum": ""
+            },
+            "require": {
+                "guzzlehttp/guzzle": "^7",
+                "php": ">=8.1 <8.3",
+                "psr/log": "^2 | ^3",
+                "sweetrdf/quick-rdf": "^2",
+                "sweetrdf/quick-rdf-io": "^1.0.6",
+                "zozlak/query-part": "^2",
+                "zozlak/rdf-constants": "^1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "*",
+                "phpunit/phpunit": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "acdhOeaw\\": "src/acdhOeaw"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "mzoltak@oeaw.ac.at"
+                }
+            ],
+            "description": "A client library for the ACDH digital objects repository",
+            "homepage": "https://github.com/acdh-oeaw/arche-lib",
+            "support": {
+                "issues": "https://github.com/acdh-oeaw/arche-lib/issues",
+                "source": "https://github.com/acdh-oeaw/arche-lib/tree/6.3.0"
+            },
+            "time": "2024-03-18T13:22:26+00:00"
+        },
+        {
+            "name": "acdh-oeaw/arche-lib-ingest",
+            "version": "4.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/acdh-oeaw/arche-lib-ingest.git",
+                "reference": "3eda2a3d73b1e6f1732ea2790d57f17b5ad0fec4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/acdh-oeaw/arche-lib-ingest/zipball/3eda2a3d73b1e6f1732ea2790d57f17b5ad0fec4",
+                "reference": "3eda2a3d73b1e6f1732ea2790d57f17b5ad0fec4",
+                "shasum": ""
+            },
+            "require": {
+                "acdh-oeaw/arche-lib": "^6",
+                "acdh-oeaw/uri-normalizer": "^3",
+                "ext-iconv": "*",
+                "guzzlehttp/guzzle": "^7",
+                "php": ">=8 <8.3",
+                "zozlak/rdf-constants": "^1.2.1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "*",
+                "phpunit/phpunit": "^10"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "acdhOeaw\\": "src/acdhOeaw"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "mzoltak@oeaw.ac.at"
+                }
+            ],
+            "description": "A library for ingesting data into the ACDH digital objects repository",
+            "homepage": "https://github.com/acdh-oeaw/arche-lib-ingest",
+            "support": {
+                "issues": "https://github.com/acdh-oeaw/arche-lib-ingest/issues",
+                "source": "https://github.com/acdh-oeaw/arche-lib-ingest/tree/4.0.1"
+            },
+            "time": "2024-03-08T17:10:44+00:00"
+        },
+        {
+            "name": "acdh-oeaw/uri-normalizer",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/acdh-oeaw/uriNormalizer.git",
+                "reference": "73ef1781515f604d4a9fdfd83abc7c0c7e01da8c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/acdh-oeaw/uriNormalizer/zipball/73ef1781515f604d4a9fdfd83abc7c0c7e01da8c",
+                "reference": "73ef1781515f604d4a9fdfd83abc7c0c7e01da8c",
+                "shasum": ""
+            },
+            "require": {
+                "acdh-oeaw/arche-assets": "^3.5",
+                "guzzlehttp/guzzle": "^7.5",
+                "php": ">= 8.0",
+                "psr/simple-cache": "^3.0",
+                "sweetrdf/quick-rdf": "^2",
+                "sweetrdf/quick-rdf-io": "^1.0.7"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "^10"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "acdhOeaw\\": "src/acdhOeaw"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "mzoltak@oeaw.ac.at"
+                }
+            ],
+            "description": "A simple class for normalizing external entity reference sources' URIs (Geonames, GND, etc. URIs).",
+            "homepage": "https://github.com/acdh-oeaw/uriNormalizer",
+            "support": {
+                "issues": "https://github.com/acdh-oeaw/uriNormalizer/issues",
+                "source": "https://github.com/acdh-oeaw/uriNormalizer/tree/3.0.0"
+            },
+            "time": "2024-02-13T15:42:00+00:00"
+        },
+        {
+            "name": "guzzlehttp/guzzle",
+            "version": "7.8.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/guzzle.git",
+                "reference": "41042bc7ab002487b876a0683fc8dce04ddce104"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/41042bc7ab002487b876a0683fc8dce04ddce104",
+                "reference": "41042bc7ab002487b876a0683fc8dce04ddce104",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "guzzlehttp/promises": "^1.5.3 || ^2.0.1",
+                "guzzlehttp/psr7": "^1.9.1 || ^2.5.1",
+                "php": "^7.2.5 || ^8.0",
+                "psr/http-client": "^1.0",
+                "symfony/deprecation-contracts": "^2.2 || ^3.0"
+            },
+            "provide": {
+                "psr/http-client-implementation": "1.0"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.8.2",
+                "ext-curl": "*",
+                "php-http/client-integration-tests": "dev-master#2c025848417c1135031fdf9c728ee53d0a7ceaee as 3.0.999",
+                "php-http/message-factory": "^1.1",
+                "phpunit/phpunit": "^8.5.36 || ^9.6.15",
+                "psr/log": "^1.1 || ^2.0 || ^3.0"
+            },
+            "suggest": {
+                "ext-curl": "Required for CURL handler support",
+                "ext-intl": "Required for Internationalized Domain Name (IDN) support",
+                "psr/log": "Required for using the Log middleware"
+            },
+            "type": "library",
+            "extra": {
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": false
+                }
+            },
+            "autoload": {
+                "files": [
+                    "src/functions_include.php"
+                ],
+                "psr-4": {
+                    "GuzzleHttp\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                },
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                },
+                {
+                    "name": "Jeremy Lindblom",
+                    "email": "jeremeamia@gmail.com",
+                    "homepage": "https://github.com/jeremeamia"
+                },
+                {
+                    "name": "George Mponos",
+                    "email": "gmponos@gmail.com",
+                    "homepage": "https://github.com/gmponos"
+                },
+                {
+                    "name": "Tobias Nyholm",
+                    "email": "tobias.nyholm@gmail.com",
+                    "homepage": "https://github.com/Nyholm"
+                },
+                {
+                    "name": "Márk Sági-Kazár",
+                    "email": "mark.sagikazar@gmail.com",
+                    "homepage": "https://github.com/sagikazarmark"
+                },
+                {
+                    "name": "Tobias Schultze",
+                    "email": "webmaster@tubo-world.de",
+                    "homepage": "https://github.com/Tobion"
+                }
+            ],
+            "description": "Guzzle is a PHP HTTP client library",
+            "keywords": [
+                "client",
+                "curl",
+                "framework",
+                "http",
+                "http client",
+                "psr-18",
+                "psr-7",
+                "rest",
+                "web service"
+            ],
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle/issues",
+                "source": "https://github.com/guzzle/guzzle/tree/7.8.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/Nyholm",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/guzzlehttp/guzzle",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2023-12-03T20:35:24+00:00"
+        },
+        {
+            "name": "guzzlehttp/promises",
+            "version": "2.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/promises.git",
+                "reference": "bbff78d96034045e58e13dedd6ad91b5d1253223"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/bbff78d96034045e58e13dedd6ad91b5d1253223",
+                "reference": "bbff78d96034045e58e13dedd6ad91b5d1253223",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2.5 || ^8.0"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.8.2",
+                "phpunit/phpunit": "^8.5.36 || ^9.6.15"
+            },
+            "type": "library",
+            "extra": {
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": false
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "GuzzleHttp\\Promise\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                },
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                },
+                {
+                    "name": "Tobias Nyholm",
+                    "email": "tobias.nyholm@gmail.com",
+                    "homepage": "https://github.com/Nyholm"
+                },
+                {
+                    "name": "Tobias Schultze",
+                    "email": "webmaster@tubo-world.de",
+                    "homepage": "https://github.com/Tobion"
+                }
+            ],
+            "description": "Guzzle promises library",
+            "keywords": [
+                "promise"
+            ],
+            "support": {
+                "issues": "https://github.com/guzzle/promises/issues",
+                "source": "https://github.com/guzzle/promises/tree/2.0.2"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/Nyholm",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/guzzlehttp/promises",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2023-12-03T20:19:20+00:00"
+        },
+        {
+            "name": "guzzlehttp/psr7",
+            "version": "2.6.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/psr7.git",
+                "reference": "45b30f99ac27b5ca93cb4831afe16285f57b8221"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/45b30f99ac27b5ca93cb4831afe16285f57b8221",
+                "reference": "45b30f99ac27b5ca93cb4831afe16285f57b8221",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2.5 || ^8.0",
+                "psr/http-factory": "^1.0",
+                "psr/http-message": "^1.1 || ^2.0",
+                "ralouphie/getallheaders": "^3.0"
+            },
+            "provide": {
+                "psr/http-factory-implementation": "1.0",
+                "psr/http-message-implementation": "1.0"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.8.2",
+                "http-interop/http-factory-tests": "^0.9",
+                "phpunit/phpunit": "^8.5.36 || ^9.6.15"
+            },
+            "suggest": {
+                "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
+            },
+            "type": "library",
+            "extra": {
+                "bamarni-bin": {
+                    "bin-links": true,
+                    "forward-command": false
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "GuzzleHttp\\Psr7\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                },
+                {
+                    "name": "Michael Dowling",
+                    "email": "mtdowling@gmail.com",
+                    "homepage": "https://github.com/mtdowling"
+                },
+                {
+                    "name": "George Mponos",
+                    "email": "gmponos@gmail.com",
+                    "homepage": "https://github.com/gmponos"
+                },
+                {
+                    "name": "Tobias Nyholm",
+                    "email": "tobias.nyholm@gmail.com",
+                    "homepage": "https://github.com/Nyholm"
+                },
+                {
+                    "name": "Márk Sági-Kazár",
+                    "email": "mark.sagikazar@gmail.com",
+                    "homepage": "https://github.com/sagikazarmark"
+                },
+                {
+                    "name": "Tobias Schultze",
+                    "email": "webmaster@tubo-world.de",
+                    "homepage": "https://github.com/Tobion"
+                },
+                {
+                    "name": "Márk Sági-Kazár",
+                    "email": "mark.sagikazar@gmail.com",
+                    "homepage": "https://sagikazarmark.hu"
+                }
+            ],
+            "description": "PSR-7 message implementation that also provides common utility methods",
+            "keywords": [
+                "http",
+                "message",
+                "psr-7",
+                "request",
+                "response",
+                "stream",
+                "uri",
+                "url"
+            ],
+            "support": {
+                "issues": "https://github.com/guzzle/psr7/issues",
+                "source": "https://github.com/guzzle/psr7/tree/2.6.2"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/Nyholm",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/guzzlehttp/psr7",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2023-12-03T20:05:35+00:00"
+        },
+        {
+            "name": "kbsali/redmine-api",
+            "version": "v2.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kbsali/php-redmine-api.git",
+                "reference": "ece897d43c0d0deebc53fa5e64fe71d148ab1563"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kbsali/php-redmine-api/zipball/ece897d43c0d0deebc53fa5e64fe71d148ab1563",
+                "reference": "ece897d43c0d0deebc53fa5e64fe71d148ab1563",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "ext-simplexml": "*",
+                "php": "^7.4 || ^8.0",
+                "psr/http-client": "^1.0",
+                "psr/http-factory": "^1.0"
+            },
+            "require-dev": {
+                "behat/behat": "^3.14",
+                "friendsofphp/php-cs-fixer": "^3.45",
+                "guzzlehttp/psr7": "^2",
+                "php-mock/php-mock-phpunit": "^2.6",
+                "phpstan/phpstan": "^1.10",
+                "phpunit/phpunit": "^9.5 || ^10.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Redmine\\": "src/Redmine/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kevin Saliou",
+                    "email": "kevin@saliou.name",
+                    "homepage": "http://kevin.saliou.name"
+                },
+                {
+                    "name": "Artur Weigandt",
+                    "email": "artur@wlabs.de",
+                    "homepage": "https://wlabs.de"
+                }
+            ],
+            "description": "Redmine API client",
+            "homepage": "https://github.com/kbsali/php-redmine-api",
+            "keywords": [
+                "api",
+                "redmine"
+            ],
+            "support": {
+                "issues": "https://github.com/kbsali/php-redmine-api/issues",
+                "source": "https://github.com/kbsali/php-redmine-api/tree/v2.6.0"
+            },
+            "time": "2024-03-25T08:29:40+00:00"
+        },
+        {
+            "name": "ml/iri",
+            "version": "1.1.4",
+            "target-dir": "ML/IRI",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lanthaler/IRI.git",
+                "reference": "cbd44fa913e00ea624241b38cefaa99da8d71341"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lanthaler/IRI/zipball/cbd44fa913e00ea624241b38cefaa99da8d71341",
+                "reference": "cbd44fa913e00ea624241b38cefaa99da8d71341",
+                "shasum": ""
+            },
+            "require": {
+                "lib-pcre": ">=4.0",
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "ML\\IRI": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Markus Lanthaler",
+                    "email": "mail@markus-lanthaler.com",
+                    "homepage": "http://www.markus-lanthaler.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "IRI handling for PHP",
+            "homepage": "http://www.markus-lanthaler.com",
+            "keywords": [
+                "URN",
+                "iri",
+                "uri",
+                "url"
+            ],
+            "support": {
+                "issues": "https://github.com/lanthaler/IRI/issues",
+                "source": "https://github.com/lanthaler/IRI/tree/master"
+            },
+            "time": "2014-01-21T13:43:39+00:00"
+        },
+        {
+            "name": "ml/json-ld",
+            "version": "1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lanthaler/JsonLD.git",
+                "reference": "537e68e87a6bce23e57c575cd5dcac1f67ce25d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lanthaler/JsonLD/zipball/537e68e87a6bce23e57c575cd5dcac1f67ce25d8",
+                "reference": "537e68e87a6bce23e57c575cd5dcac1f67ce25d8",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "ml/iri": "^1.1.1",
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "json-ld/tests": "1.0",
+                "phpunit/phpunit": "^4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ML\\JsonLD\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Markus Lanthaler",
+                    "email": "mail@markus-lanthaler.com",
+                    "homepage": "http://www.markus-lanthaler.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "JSON-LD Processor for PHP",
+            "homepage": "http://www.markus-lanthaler.com",
+            "keywords": [
+                "JSON-LD",
+                "jsonld"
+            ],
+            "support": {
+                "issues": "https://github.com/lanthaler/JsonLD/issues",
+                "source": "https://github.com/lanthaler/JsonLD/tree/1.2.1"
+            },
+            "time": "2022-09-29T08:45:17+00:00"
+        },
+        {
+            "name": "phpstan/phpstan",
+            "version": "1.10.65",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phpstan/phpstan.git",
+                "reference": "3c657d057a0b7ecae19cb12db446bbc99d8839c6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/3c657d057a0b7ecae19cb12db446bbc99d8839c6",
+                "reference": "3c657d057a0b7ecae19cb12db446bbc99d8839c6",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2|^8.0"
+            },
+            "conflict": {
+                "phpstan/phpstan-shim": "*"
+            },
+            "bin": [
+                "phpstan",
+                "phpstan.phar"
+            ],
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHPStan - PHP Static Analysis Tool",
+            "keywords": [
+                "dev",
+                "static analysis"
+            ],
+            "support": {
+                "docs": "https://phpstan.org/user-guide/getting-started",
+                "forum": "https://github.com/phpstan/phpstan/discussions",
+                "issues": "https://github.com/phpstan/phpstan/issues",
+                "security": "https://github.com/phpstan/phpstan/security/policy",
+                "source": "https://github.com/phpstan/phpstan-src"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/ondrejmirtes",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/phpstan",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpstan/phpstan",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2024-03-23T10:30:26+00:00"
+        },
+        {
+            "name": "pietercolpaert/hardf",
+            "version": "0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pietercolpaert/hardf.git",
+                "reference": "142f38d746793829f61c43cdd9721a5b0bff371d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pietercolpaert/hardf/zipball/142f38d746793829f61c43cdd9721a5b0bff371d",
+                "reference": "142f38d746793829f61c43cdd9721a5b0bff371d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1|^8.0"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "*",
+                "phpstan/phpstan": "^0.12.36",
+                "phpunit/phpunit": "^7 || ^8 || ^9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "pietercolpaert\\hardf\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Pieter Colpaert",
+                    "email": "pieter.colpaert@ugent.be",
+                    "homepage": "https://pietercolpaert.be",
+                    "role": "developer"
+                },
+                {
+                    "name": "Ruben Verborgh",
+                    "email": "ruben.verborgh@ugent.be",
+                    "homepage": "https://ruben.verborgh.org",
+                    "role": "developer"
+                }
+            ],
+            "description": "A fast parser for RDF serializations such as turtle, n-triples, n-quads, trig and N3",
+            "homepage": "https://github.com/pietercolpaert/hardf",
+            "keywords": [
+                "Linked Data",
+                "RDF",
+                "Triples",
+                "Turtle",
+                "n-quads",
+                "n-triples",
+                "n3",
+                "open data",
+                "quads",
+                "rdf1.1",
+                "streaming",
+                "trig"
+            ],
+            "support": {
+                "issues": "https://github.com/pietercolpaert/hardf/issues",
+                "source": "https://github.com/pietercolpaert/hardf"
+            },
+            "time": "2024-02-27T14:47:16+00:00"
+        },
+        {
+            "name": "psr/http-client",
+            "version": "1.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/http-client.git",
+                "reference": "bb5906edc1c324c9a05aa0873d40117941e5fa90"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/http-client/zipball/bb5906edc1c324c9a05aa0873d40117941e5fa90",
+                "reference": "bb5906edc1c324c9a05aa0873d40117941e5fa90",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0 || ^8.0",
+                "psr/http-message": "^1.0 || ^2.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Http\\Client\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for HTTP clients",
+            "homepage": "https://github.com/php-fig/http-client",
+            "keywords": [
+                "http",
+                "http-client",
+                "psr",
+                "psr-18"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/http-client"
+            },
+            "time": "2023-09-23T14:17:50+00:00"
+        },
+        {
+            "name": "psr/http-factory",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/http-factory.git",
+                "reference": "e616d01114759c4c489f93b099585439f795fe35"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/http-factory/zipball/e616d01114759c4c489f93b099585439f795fe35",
+                "reference": "e616d01114759c4c489f93b099585439f795fe35",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0",
+                "psr/http-message": "^1.0 || ^2.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Http\\Message\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interfaces for PSR-7 HTTP message factories",
+            "keywords": [
+                "factory",
+                "http",
+                "message",
+                "psr",
+                "psr-17",
+                "psr-7",
+                "request",
+                "response"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/http-factory/tree/1.0.2"
+            },
+            "time": "2023-04-10T20:10:41+00:00"
+        },
+        {
+            "name": "psr/http-message",
+            "version": "2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/http-message.git",
+                "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/402d35bcb92c70c026d1a6a9883f06b2ead23d71",
+                "reference": "402d35bcb92c70c026d1a6a9883f06b2ead23d71",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2 || ^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Http\\Message\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for HTTP messages",
+            "homepage": "https://github.com/php-fig/http-message",
+            "keywords": [
+                "http",
+                "http-message",
+                "psr",
+                "psr-7",
+                "request",
+                "response"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/2.0"
+            },
+            "time": "2023-04-04T09:54:51+00:00"
+        },
+        {
+            "name": "psr/log",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/log.git",
+                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/fe5ea303b0887d5caefd3d431c3e61ad47037001",
+                "reference": "fe5ea303b0887d5caefd3d431c3e61ad47037001",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\Log\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interface for logging libraries",
+            "homepage": "https://github.com/php-fig/log",
+            "keywords": [
+                "log",
+                "psr",
+                "psr-3"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/3.0.0"
+            },
+            "time": "2021-07-14T16:46:02+00:00"
+        },
+        {
+            "name": "psr/simple-cache",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/simple-cache.git",
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\SimpleCache\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interfaces for simple caching",
+            "keywords": [
+                "cache",
+                "caching",
+                "psr",
+                "psr-16",
+                "simple-cache"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
+            },
+            "time": "2021-10-29T13:26:27+00:00"
+        },
+        {
+            "name": "ralouphie/getallheaders",
+            "version": "3.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ralouphie/getallheaders.git",
+                "reference": "120b605dfeb996808c31b6477290a714d356e822"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ralouphie/getallheaders/zipball/120b605dfeb996808c31b6477290a714d356e822",
+                "reference": "120b605dfeb996808c31b6477290a714d356e822",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "require-dev": {
+                "php-coveralls/php-coveralls": "^2.1",
+                "phpunit/phpunit": "^5 || ^6.5"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/getallheaders.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ralph Khattar",
+                    "email": "ralph.khattar@gmail.com"
+                }
+            ],
+            "description": "A polyfill for getallheaders.",
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
+            "time": "2019-03-08T08:55:37+00:00"
+        },
+        {
+            "name": "sweetrdf/quick-rdf",
+            "version": "2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sweetrdf/quickRdf.git",
+                "reference": "43a6969a25b3cbacd8ad5b45d5edded05a664290"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sweetrdf/quickRdf/zipball/43a6969a25b3cbacd8ad5b45d5edded05a664290",
+                "reference": "43a6969a25b3cbacd8ad5b45d5edded05a664290",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "sweetrdf/rdf-helpers": "^2",
+                "sweetrdf/rdf-interface": "^2",
+                "sweetrdf/term-templates": "^2.0.2",
+                "zozlak/rdf-constants": "^1.1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "^10",
+                "sweetrdf/rdf-interface-tests": "2.0.0",
+                "sweetrdf/simple-rdf": "^2"
+            },
+            "suggest": {
+                "sweetrdf/quick-rdf-io": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "quickRdf\\": "src/quickRdf"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Yet another RDF library",
+            "homepage": "https://github.com/sweetrdf/quickRdf",
+            "support": {
+                "issues": "https://github.com/sweetrdf/quickRdf/issues",
+                "source": "https://github.com/sweetrdf/quickRdf/tree/2.0.1"
+            },
+            "time": "2024-03-13T14:37:05+00:00"
+        },
+        {
+            "name": "sweetrdf/quick-rdf-io",
+            "version": "1.0.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sweetrdf/quickRdfIo.git",
+                "reference": "20315b6eff738896992e0283574c200323cd4318"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sweetrdf/quickRdfIo/zipball/20315b6eff738896992e0283574c200323cd4318",
+                "reference": "20315b6eff738896992e0283574c200323cd4318",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*",
+                "ext-pcre": "*",
+                "ext-xmlreader": "*",
+                "ml/json-ld": "^1.2",
+                "php": ">=8.0",
+                "pietercolpaert/hardf": ">=0.3.1 <1",
+                "sweetrdf/rdf-helpers": "^2",
+                "sweetrdf/rdf-interface": "^2",
+                "zozlak/rdf-constants": "^1.1"
+            },
+            "require-dev": {
+                "php-coveralls/php-coveralls": "^2.4",
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "^10",
+                "sweetrdf/quick-rdf": "^2",
+                "sweetrdf/simple-rdf": "^2",
+                "sweetrdf/term-templates": "^2.0.2"
+            },
+            "suggest": {
+                "sweetrdf/quick-rdf": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "quickRdfIo\\": "src/quickRdfIo"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Collection of parser and serializers compatible with sweetrdf/rdfInterface",
+            "homepage": "https://github.com/sweetrdf/quickRdfIo",
+            "support": {
+                "issues": "https://github.com/sweetrdf/quickRdfIo/issues",
+                "source": "https://github.com/sweetrdf/quickRdfIo/tree/1.0.9"
+            },
+            "time": "2024-02-15T11:56:24+00:00"
+        },
+        {
+            "name": "sweetrdf/rdf-helpers",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sweetrdf/rdfHelpers.git",
+                "reference": "3c2cb15e86053fcf5c52235da75c2b141218e3f8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sweetrdf/rdfHelpers/zipball/3c2cb15e86053fcf5c52235da75c2b141218e3f8",
+                "reference": "3c2cb15e86053fcf5c52235da75c2b141218e3f8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "sweetrdf/rdf-interface": "^2",
+                "zozlak/rdf-constants": "^1.1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "^10"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "rdfHelpers\\": "src/rdfHelpers"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Set of low level helpers for implementing rdfInterface",
+            "homepage": "https://github.com/sweetrdf/rdfHelpers",
+            "support": {
+                "issues": "https://github.com/sweetrdf/rdfHelpers/issues",
+                "source": "https://github.com/sweetrdf/rdfHelpers/tree/2.0.0"
+            },
+            "time": "2024-02-13T12:03:47+00:00"
+        },
+        {
+            "name": "sweetrdf/rdf-interface",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sweetrdf/rdfInterface.git",
+                "reference": "9a8c01779a214fa37f3420aa1d7228d51c170a19"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sweetrdf/rdfInterface/zipball/9a8c01779a214fa37f3420aa1d7228d51c170a19",
+                "reference": "9a8c01779a214fa37f3420aa1d7228d51c170a19",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "psr/http-message": "^1.0 || ^2.0",
+                "zozlak/rdf-constants": "*"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "rdfInterface\\": "src/rdfInterface"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A common RDF interface for PHP RDF libraries.",
+            "homepage": "https://github.com/sweetrdf/rdfInterface",
+            "support": {
+                "issues": "https://github.com/sweetrdf/rdfInterface/issues",
+                "source": "https://github.com/sweetrdf/rdfInterface/tree/2.0.0"
+            },
+            "time": "2024-02-09T12:03:33+00:00"
+        },
+        {
+            "name": "sweetrdf/term-templates",
+            "version": "2.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sweetrdf/termTemplates.git",
+                "reference": "635c4829f5b595897668ee05c59b37d208948b57"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sweetrdf/termTemplates/zipball/635c4829f5b595897668ee05c59b37d208948b57",
+                "reference": "635c4829f5b595897668ee05c59b37d208948b57",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "sweetrdf/rdf-interface": "^2",
+                "zozlak/rdf-constants": "^1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1",
+                "phpunit/phpunit": "^10",
+                "sweetrdf/simple-rdf": "^2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "termTemplates\\": "src/termTemplates"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A set of Term templates for the rdfInterface",
+            "homepage": "https://github.com/sweetrdf/termTemplates",
+            "support": {
+                "issues": "https://github.com/sweetrdf/termTemplates/issues",
+                "source": "https://github.com/sweetrdf/termTemplates/tree/2.0.2"
+            },
+            "time": "2024-02-13T12:26:29+00:00"
+        },
+        {
+            "name": "symfony/deprecation-contracts",
+            "version": "v3.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/deprecation-contracts.git",
+                "reference": "7c3aff79d10325257a001fcf92d991f24fc967cf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/7c3aff79d10325257a001fcf92d991f24fc967cf",
+                "reference": "7c3aff79d10325257a001fcf92d991f24fc967cf",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "3.4-dev"
+                },
+                "thanks": {
+                    "name": "symfony/contracts",
+                    "url": "https://github.com/symfony/contracts"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "function.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "A generic function and convention to trigger deprecation notices",
+            "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.4.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2023-05-23T14:45:45+00:00"
+        },
+        {
+            "name": "zozlak/argparse",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zozlak/argparse.git",
+                "reference": "f1b0bdc5c21cd8a7b5618e73be8af3473f086a5b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zozlak/argparse/zipball/f1b0bdc5c21cd8a7b5618e73be8af3473f086a5b",
+                "reference": "f1b0bdc5c21cd8a7b5618e73be8af3473f086a5b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "phpstan/phpstan": "^1.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "zozlak\\argparse\\": "src/zozlak/argparse"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A humble PHP clone of Python's argparse library",
+            "homepage": "https://github.com/zozlak/argparse",
+            "support": {
+                "issues": "https://github.com/zozlak/argparse/issues",
+                "source": "https://github.com/zozlak/argparse/tree/1.0.1"
+            },
+            "time": "2022-01-25T14:17:46+00:00"
+        },
+        {
+            "name": "zozlak/query-part",
+            "version": "2.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zozlak/queryPart.git",
+                "reference": "ad42046e9848a34fab42b4d9ce8e1f2f784bc125"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zozlak/queryPart/zipball/ad42046e9848a34fab42b4d9ce8e1f2f784bc125",
+                "reference": "ad42046e9848a34fab42b4d9ce8e1f2f784bc125",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "*",
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "zozlak\\queryPart\\": "src/zozlak/queryPart"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Container class for an SQL query and its parameters",
+            "homepage": "https://github.com/zozlak/queryPart",
+            "support": {
+                "issues": "https://github.com/zozlak/queryPart/issues",
+                "source": "https://github.com/zozlak/queryPart/tree/2.1.2"
+            },
+            "time": "2023-01-02T10:23:10+00:00"
+        },
+        {
+            "name": "zozlak/rdf-constants",
+            "version": "1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zozlak/RdfConstants.git",
+                "reference": "a8de0b50d23b213a68784ec2cec22b4ad838012b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zozlak/RdfConstants/zipball/a8de0b50d23b213a68784ec2cec22b4ad838012b",
+                "reference": "a8de0b50d23b213a68784ec2cec22b4ad838012b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "zozlak\\": "src/zozlak"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mateusz Żółtak",
+                    "email": "zozlak@zozlak.org"
+                }
+            ],
+            "description": "A set of commonly used RDF and XSD constants",
+            "homepage": "https://github.com/zozlak/RdfConstants",
+            "support": {
+                "issues": "https://github.com/zozlak/RdfConstants/issues",
+                "source": "https://github.com/zozlak/RdfConstants/tree/1.2.1"
+            },
+            "time": "2022-08-05T12:50:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
