@@ -15,14 +15,12 @@ COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
 
 
-files = glob.glob("exports/*/*/mets.xml")
+files = glob.glob("exports/*/mets.xml")
 for x in tqdm(files):
     heads, _ = os.path.split(x)
     # document collection
     cur_col_id = x.split("/")[1]
-    cur_col_slug = x.split("/")[2]
-    cur_col_uri = URIRef(f"{TOP_COL_URI}/{cur_col_id}/{cur_col_slug}")
-    cur_col_title = cur_col_id.replace("-", " ").replace("_", " ")
+    cur_col_uri = URIRef(f"{TOP_COL_URI}/{cur_col_id}")
     g.add((cur_col_uri, RDF.type, ACDH["Collection"]))
     g.add((cur_col_uri, ACDH["isPartOf"], TOP_COL_URI))
 
@@ -61,7 +59,7 @@ for x in tqdm(files):
     page_folder_uri = URIRef(f"{cur_col_uri}/page")
     g.add((page_folder_uri, RDF.type, ACDH["Collection"]))
     g.add((page_folder_uri, ACDH["isPartOf"], cur_col_uri))
-    g.add((page_folder_uri, ACDH["hasTitle"], Literal("page files", lang="und")))
+    g.add((page_folder_uri, ACDH["hasTitle"], Literal(f"PAGE files für: {cur_col_title}", lang="und")))
 
     # page files
     page_files = glob.glob(f"{heads}/page/*.xml")
