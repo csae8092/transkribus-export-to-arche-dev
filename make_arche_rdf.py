@@ -15,12 +15,12 @@ COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
 COL_URIS = set()
 
 
-files = glob.glob("exports/*/*/*/mets.xml")
+files = glob.glob("exports/*/*/mets.xml")
 for x in tqdm(files):
     heads, _ = os.path.split(x)
     # document collection
-    cur_col_id = x.split("/")[2]
-    cur_col_slug = x.split("/")[3]
+    cur_col_id = x.split("/")[1]
+    cur_col_slug = x.split("/")[2]
     cur_col_uri = URIRef(f"{TOP_COL_URI}/{cur_col_id}/{cur_col_slug}")
     cur_col_title = cur_col_id.replace("-", " ").replace("_", " ")
     g.add((cur_col_uri, RDF.type, ACDH["Collection"]))
