@@ -50,16 +50,26 @@ for x in tqdm(files):
     ):
         image_uri = URIRef(f"{cur_col_uri}/{image}")
         g.add((image_uri, RDF.type, ACDH["Resource"]))
-        g.add((image_uri, ACDH["hasTitle"], Literal(f"{cur_col_title}, Seite: {i}")))
+        g.add((image_uri, ACDH["hasTitle"], Literal(f"{cur_col_title}, Seite: {i:04}")))
         g.add((image_uri, ACDH["isPartOf"], cur_col_uri))
-        g.add((
-            image_uri, ACDH["hasCategory"], URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/image")
-        ))
+        g.add(
+            (
+                image_uri,
+                ACDH["hasCategory"],
+                URIRef("https://vocabs.acdh.oeaw.ac.at/archecategory/image"),
+            )
+        )
     # page folder
     page_folder_uri = URIRef(f"{cur_col_uri}/page")
     g.add((page_folder_uri, RDF.type, ACDH["Collection"]))
     g.add((page_folder_uri, ACDH["isPartOf"], cur_col_uri))
-    g.add((page_folder_uri, ACDH["hasTitle"], Literal(f"PAGE files für: {cur_col_title}", lang="und")))
+    g.add(
+        (
+            page_folder_uri,
+            ACDH["hasTitle"],
+            Literal(f"PAGE files für: {cur_col_title}", lang="und"),
+        )
+    )
 
     # page files
     page_files = glob.glob(f"{heads}/page/*.xml")
@@ -85,4 +95,6 @@ for x in COLS:
 for x in COL_URIS:
     for p, o in g_repo_objects.predicate_objects():
         g.add((x, p, o))
+
+print("writing graph to file")
 g.serialize("arche.ttl")
