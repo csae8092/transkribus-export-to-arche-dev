@@ -161,3 +161,6 @@ cython_debug/
 vendor/
 arche.ttl
 *.jpeg
+fc_out/
+composer.json
+composer.lock
