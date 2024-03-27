@@ -1,6 +1,0 @@
-{
-    "require": {
-        "acdh-oeaw/arche-ingest": "^1.4.6",
-        "acdh-oeaw/repo-file-checker": "^3.1.5"
-    }
-}
