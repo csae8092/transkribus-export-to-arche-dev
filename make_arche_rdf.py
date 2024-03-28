@@ -8,7 +8,7 @@ from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
 
 g = Graph().parse("arche_seed_files/arche_constants.ttl")
 g_repo_objects = Graph().parse("arche_seed_files/repo_objects_constants.ttl")
-TOP_COL_URI = URIRef("https://id.acdh.oeaw.ac.at/my-transkribus-play")
+TOP_COL_URI = URIRef("https://id.acdh.oeaw.ac.at/schnitzler-zeitungen")
 
 ACDH = Namespace("https://vocabs.acdh.oeaw.ac.at/schema#")
 COLS = [ACDH["TopCollection"], ACDH["Collection"], ACDH["Resource"]]
@@ -16,7 +16,7 @@ COL_URIS = set()
 
 
 files = glob.glob("exports/*/mets.xml")
-for x in tqdm(files):
+for x in tqdm(files[:3]):
     heads, _ = os.path.split(x)
     # document collection
     cur_col_id = x.split("/")[1]
