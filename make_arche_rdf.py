@@ -50,7 +50,7 @@ for x in tqdm(files[:3]):
     ):
         image_uri = URIRef(f"{cur_col_uri}/{image}")
         g.add((image_uri, RDF.type, ACDH["Resource"]))
-        g.add((image_uri, ACDH["hasTitle"], Literal(f"{cur_col_title}, Seite: {i:04}")))
+        g.add((image_uri, ACDH["hasTitle"], Literal(f"{cur_col_title}, Seite: {i:04}", lang="de")))
         g.add((image_uri, ACDH["isPartOf"], cur_col_uri))
         g.add(
             (

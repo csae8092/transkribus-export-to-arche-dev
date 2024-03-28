@@ -4,19 +4,19 @@
 
 
 <https://d-nb.info/gnd/118609807> a acdh:Person ;
-    acdh:hasTitle "Schnitzler, Arthur"@und .
+    acdh:hasTitle "Schnitzler, Arthur"@de .
 
 <https://id.acdh.oeaw.ac.at/none> a acdh:Person ;
-    acdh:hasTitle "none"@und .
+    acdh:hasTitle "none"@en .
 
 <https://d-nb.info/gnd/1050382196> a acdh:Person ;
-    acdh:hasTitle "Müller, Martin Anton" .
+    acdh:hasTitle "Müller, Martin Anton"@de .
 
 <https://d-nb.info/gnd/1043833846> a acdh:Person ;
-    acdh:hasTitle "Andorfer, Peter" .
+    acdh:hasTitle "Andorfer, Peter"@de .
 
 <https://d-nb.info/gnd/1176130706> a acdh:Person ;
-    acdh:hasTitle "Börner, Ingo" .
+    acdh:hasTitle "Börner, Ingo"@de .
 
 
 <https://id.acdh.oeaw.ac.at/schnitzler-zeitungen> a acdh:TopCollection ;
