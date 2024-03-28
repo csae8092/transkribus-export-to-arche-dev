@@ -165,3 +165,5 @@ fc_out/
 composer.json
 composer.lock
 import_rancher.txt
+metadata_rancher.txt
+binaries_rancher.txt
