@@ -3,7 +3,7 @@ import os
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_xml_pyutils.xml import NSMAP
-from rdflib import Namespace, URIRef, RDF, Graph, Literal, XSD
+from rdflib import Namespace, URIRef, RDF, Graph, Literal
 
 
 g = Graph().parse("arche_seed_files/arche_constants.ttl")
